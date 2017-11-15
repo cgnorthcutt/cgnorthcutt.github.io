@@ -1,4 +1,4 @@
-## Welcome to Curtis G. Northcutt's personal website
+## Curtis G. Northcutt's personal website
 ### Updated - November 15, 2017
 
 If you're looking for [curtisnorthcutt.com](curtisnorthcutt.com), you are in the right place -- but you've caught me in a transition period.
