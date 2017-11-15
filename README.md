@@ -2,11 +2,11 @@
 <!-- My [research](md/research.md) will be added soon. -->
 
 <b><span color='red'>11-15-17</span></b>: This website is in transition to better things. It should be complete by early 2018. For now: [Curtis Northcutt's Resume](resources/pdf/cv.pdf)  
-<b><span color='red'>08-15-17</span></b>: Rank Pruning is a state-of-the-art, robust, time-efficient, general algorithm for classification with noisy labels [published](http://auai.org/uai2017/proceedings/papers/35.pdf) at UAI '17. [pdf](resources/pdf/northcutt_2017_rankpruning.pdf) | [arXiv](https://arxiv.org/abs/1705.01936) | [Github](https://github.com/cgnorthcutt/rankpruning)  
-<b><span color='red'>04-20-17</span></b>: Comment Ranking Diversification in Forum Discussions [published](http://dl.acm.org/citation.cfm?id=3054016) in L@S '17. [pdf](resources/pdf/northcutt_2017_diversification.pdf) | [Github](https://github.com/cgnorthcutt/forum-diversification)  
-<b><span color='red'>09-20-16</span></b>: CAMEO Cheating Detection in MOOCs and online courses [published](http://www.sciencedirect.com/science/article/pii/S0360131516300896) in Computers & Education '16. <a class="pdf" href="resources/pdf/northcutt_2017_cameo.pdf">pdf</a> | [arXiv](https://arxiv.org/abs/1508.05699) | [Github](https://github.com/CGNx/edx2bigquery/blob/master/edx2bigquery/make_problem_analysis.py#L1628)
+<b><span color='red'>08-15-17</span></b>: Rank Pruning is a state-of-the-art, robust, time-efficient, general algorithm for classification with noisy labels [published](http://auai.org/uai2017/proceedings/papers/35.pdf) at UAI '17. <a class="pdf" href="resources/pdf/northcutt_2017_rankpruning.pdf">pdf</a> | <a class="arxiv" href="https://arxiv.org/abs/1705.01936">arXiv</a>[arXiv] | <a class="github" href="https://github.com/cgnorthcutt/rankpruning">GitHub</a>  
+<b><span color='red'>04-20-17</span></b>: Comment Ranking Diversification in Forum Discussions [published](http://dl.acm.org/citation.cfm?id=3054016) in L@S '17. <a class="pdf" href="resources/pdf/northcutt_2017_diversification.pdf">pdf</a> | <a class="github" href="https://github.com/cgnorthcutt/forum-diversification">GitHub</a>  
+<b><span color='red'>09-20-16</span></b>: CAMEO Cheating Detection in MOOCs and online courses [published](http://www.sciencedirect.com/science/article/pii/S0360131516300896) in Computers & Education '16. <a class="pdf" href="resources/pdf/northcutt_2016_cameo.pdf">pdf</a> | <a class="arxiv" href="https://arxiv.org/abs/1508.05699">arXiv</a>[arXiv] | <a class="github" href="https://github.com/CGNx/edx2bigquery/blob/master/edx2bigquery/make_problem_analysis.py#L1628">GitHub</a> 
 
-See **[news](md/news.md)** for more.
+See **[news](md/news.md)** for more. 
 
 ## About 
 
