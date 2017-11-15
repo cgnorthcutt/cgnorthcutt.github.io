@@ -2,6 +2,6 @@
 title: Research
 ---
 
-# Curtis Northcutt's Research
+# Research
 
-[link](http:/curtisnorthcutt.com/)
+[Homepage](http:/curtisnorthcutt.com/)

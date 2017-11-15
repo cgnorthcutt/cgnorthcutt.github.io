@@ -5,4 +5,4 @@ If you're looking for [curtisnorthcutt.com](curtisnorthcutt.com), you are in the
 
 For now: [Curtis Northcutt's Resume](cv.pdf)
 
-My reearch: [My research](research.md)
+My research: [My research](research.md)
