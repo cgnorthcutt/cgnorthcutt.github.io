@@ -1,7 +1,7 @@
 <h2> News Highlights -- <span color='red'>updated 11/15/17</span></h2>
 <!-- My [research](md/research.md) will be added soon. -->
 
-<b><span color='red'>11-15-17</span></b>: This website is in transition to better things. It should be complete by early 2018. For now, here is my [resume](resources/pdf/cv.pdf)  
+<b>11-15-17</b>: This website is in transition to better things. It should be complete by early 2018. For now, here is my [resume](resources/pdf/cv.pdf)  
 <b>08-15-17</b>: <span color='red'>Rank Pruning</span> is a state-of-the-art, robust, time-efficient, general algorithm for classification with noisy labels published at [UAI '17](http://auai.org/uai2017/proceedings/papers/35.pdf).  <a class="pdf" href="resources/pdf/northcutt_2017_rankpruning.pdf">pdf</a> | <a class="arxiv" href="https://arxiv.org/abs/1705.01936">arXiv</a> | <a class="github" href="https://github.com/cgnorthcutt/rankpruning">GitHub</a>  
 <b>04-20-17</b>: <span color='red'>Forum Ranking Diversification</span> published at [L@S '17](http://dl.acm.org/citation.cfm?id=3054016).  <a class="pdf" href="resources/pdf/northcutt_2017_diversification.pdf">pdf</a> | <a class="github" href="https://github.com/cgnorthcutt/forum-diversification">GitHub</a>  
 <b>09-20-16</b>: <span color='red'>CAMEO Cheating Detection in MOOCs</span> and online courses published in [Computers & Education '16](http://www.sciencedirect.com/science/article/pii/S0360131516300896).  <a class="pdf" href="resources/pdf/northcutt_2016_cameo.pdf">pdf</a> | <a class="arxiv" href="https://arxiv.org/abs/1508.05699">arXiv</a> | <a class="github" href="https://github.com/CGNx/edx2bigquery/blob/master/edx2bigquery/make_problem_analysis.py#L1628">GitHub</a> 
