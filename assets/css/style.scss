@@ -26,6 +26,11 @@ p, li, span {
   font-size: 16px;
 }
 
+.row-of-links {
+  display:flex; 
+  justify-content: space-between;
+}
+
 a.pdf, a.arxiv, a.github {
   text-decoration: underline;  
 }
