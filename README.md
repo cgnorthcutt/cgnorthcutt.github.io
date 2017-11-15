@@ -27,3 +27,19 @@ I develop robust machine learning algorithms to enable open learning, i.e. to ma
 * Optimize every aspect of your health (social, intellectual, physical, spiritual, religious)
 * Push the boundaries of what is reasonable. In doing so, you will achieve the unreasonable.
 * Never stop expanding your viewpoint, welcome every new experience.
+
+## Life Mantras
+
+* Transcend obstacles you weren't even supposed to know existed.
+* Make a global impact. Do work that improve's the human condition on a global scale.
+* Optimize every aspect of your health (social, intellectual, physical, spiritual, religious)
+* Push the boundaries of what is reasonable. In doing so, you will achieve the unreasonable.
+* Never stop expanding your viewpoint, welcome every new experience.
+
+## Life Mantras
+
+* Transcend obstacles you weren't even supposed to know existed.
+* Make a global impact. Do work that improve's the human condition on a global scale.
+* Optimize every aspect of your health (social, intellectual, physical, spiritual, religious)
+* Push the boundaries of what is reasonable. In doing so, you will achieve the unreasonable.
+* Never stop expanding your viewpoint, welcome every new experience.
