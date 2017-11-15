@@ -5,11 +5,4 @@ If you're looking for [curtisnorthcutt.com](curtisnorthcutt.com), you are in the
 
 For now: [Curtis Northcutt's Resume](cv.pdf)
 
----
-title: test1
----
-
-Testing additional page
-=====
-
-**On page test1!**
+My reearch: [My research](research.md)
