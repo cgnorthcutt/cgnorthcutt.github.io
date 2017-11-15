@@ -1,9 +1,27 @@
-/*---
+---
 ---
 
 @import "{{ site.theme }}";
 
-.wrapper {
+li, a {
+    display:inline-block;
+    text-align:center;
+    font: normal 14px Open Sans;
+    text-transform: uppercase;
+}
+a:hover {
+    font-weight:bold;
+}
+a::after {
+    display: block;
+    content: attr(title);
+    font-weight: bold;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+}
+
+/*.wrapper {
   width:10px;
 }
 

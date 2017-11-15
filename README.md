@@ -10,9 +10,9 @@ For now: [Curtis Northcutt's Resume](/resources/pdf/cv.pdf)
 
 My [research](research.md) will be added soon. -->
 
-## Bio in third person
+## Bio 
 
-[Curtis Northcutt](curtisnorthcutt.com) is a fifth-year Ph.D. Candidate in Computer Science at MIT, an [NSF Fellow](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList), and an [MITx Digital Learning Research Fellow](https://odl.mit.edu/about/our-team/curtis-northcutt) working under the supervision of [Isaac Chuang](http://web.mit.edu/physics/people/faculty/chuang_isaac.html). His work spans **robust algorithms for classification with mislabeled training data and noise estimation, noisy learning, weak supervision, semi-supervised learning, cheating detection, and online education**. Curtis has won numerous awards, including the [MIT Morris Joseph Levin Masters Thesis Award](https://www.eecs.mit.edu/news-events/announcements/eecs-celebrates-2015-2016-award-winners), an [NSF Graduate Research Fellowship](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList), the [Barry M. Goldwater National Scholarship](http://act.org/goldwater/sch-2012.html), and the [Vanderbilt Founder’s Medal](http://news.vanderbilt.edu/2013/05/founders-medalists/) (Valedictorian). Curtis created and is responsible for the [cheating detection system](https://www.insidehighered.com/news/2015/08/26/harvard-mit-researchers-find-mooc-learners-using-multiple-accounts-cheat) used by MITx and HarvardX online course teams, particularly the MIT MicroMasters courses. At MIT, Curtis is a teaching assistant for 6.867, a (300+ students) graduate machine learning course. He is lucky to have had the opporunity to work or intern at Amazon Research, Facebook AI Research (FAIR), Microsoft Research (MSR) India, MIT Lincoln Laboratory, Microsoft, NASA, General Electric, and a National Science Foundation REU including collaborations with MIT, Harvard, Vanderbilt, Notre Dame, and the University of Kentucky.
+[Curtis Northcutt](curtisnorthcutt.com) is a fifth-year Ph.D. Candidate in Computer Science at MIT, an [NSF Fellow](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList), and an [MITx Digital Learning Research Fellow](https://odl.mit.edu/about/our-team/curtis-northcutt) working under the supervision of [Isaac Chuang](http://web.mit.edu/physics/people/faculty/chuang_isaac.html). His work spans **robust algorithms for classification with mislabeled training data and noise estimation, noisy learning, weak supervision, semi-supervised learning, cheating detection, and online education**. Curtis has won numerous awards, including the [MIT Morris Joseph Levin Masters Thesis Award](https://www.eecs.mit.edu/news-events/announcements/eecs-celebrates-2015-2016-award-winners), an [NSF Graduate Research Fellowship](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList), the [Barry M. Goldwater National Scholarship](http://act.org/goldwater/sch-2012.html), and the [Vanderbilt Founder’s Medal](http://news.vanderbilt.edu/2013/05/founders-medalists/) (Valedictorian). Curtis created and is responsible for the [cheating detection system](https://www.insidehighered.com/news/2015/08/26/harvard-mit-researchers-find-mooc-learners-using-multiple-accounts-cheat) used by MITx and HarvardX online course teams, particularly the MIT MicroMasters courses. Curtis is a teaching assistant for 6.867, a (300+ students) graduate machine learning course at MIT. He is fortunate to have had the opportunities to work or intern at Amazon Research, Facebook AI Research (FAIR), Microsoft Research (MSR) India, MIT Lincoln Laboratory, Microsoft, NASA, General Electric, and a National Science Foundation REU including collaborations with MIT, Harvard, Vanderbilt, Notre Dame, and the University of Kentucky.
 
 ## The Gift of Education
 
@@ -22,24 +22,8 @@ I develop robust machine learning algorithms to enable open learning, i.e. to ma
 
 ## Life Mantras
 
-* Transcend obstacles you weren't even supposed to know existed.
 * Make a global impact. Do work that improve's the human condition on a global scale.
 * Optimize every aspect of your health (social, intellectual, physical, spiritual, religious)
-* Push the boundaries of what is reasonable. In doing so, you will achieve the unreasonable.
+* Push the boundaries of what is reasonable to achieve the unreasonable.
 * Never stop expanding your viewpoint, welcome every new experience.
-
-## Life Mantras
-
-* Transcend obstacles you weren't even supposed to know existed.
-* Make a global impact. Do work that improve's the human condition on a global scale.
-* Optimize every aspect of your health (social, intellectual, physical, spiritual, religious)
-* Push the boundaries of what is reasonable. In doing so, you will achieve the unreasonable.
-* Never stop expanding your viewpoint, welcome every new experience.
-
-## Life Mantras
-
-* Transcend obstacles you weren't even supposed to know existed.
-* Make a global impact. Do work that improve's the human condition on a global scale.
-* Optimize every aspect of your health (social, intellectual, physical, spiritual, religious)
-* Push the boundaries of what is reasonable. In doing so, you will achieve the unreasonable.
-* Never stop expanding your viewpoint, welcome every new experience.
+* Don't take yourself too seriously. Do take your work very seriously. 
