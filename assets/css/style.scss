@@ -26,6 +26,22 @@ p {
   font-size: 16px;
 }
 
+a.pdf, a.arxiv, a.github {
+  text-decoration: underline;  
+}
+
+a.pdf {
+  color: blue;  
+}
+
+a.arxiv {
+  color: orange;  
+}
+
+a.github {
+  color: violet;  
+}
+
 
 
 /*.wrapper {
