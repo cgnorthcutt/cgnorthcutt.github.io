@@ -1,13 +1,10 @@
-## News -- ```diff + updated 11/15/17```</span>
-
-**11-15-17**: This website is in transition to better things. It should be complete by early 2018.
+## News -- <span color='red'>updated 11/15/17</span>
 <!-- My [research](http://curtisnorthcutt.com/research.html) will be added soon. -->
 
-For now: [Curtis Northcutt's Resume](resources/pdf/cv.pdf)  
-
-**08-15-17**: Rank Pruning is a state-of-the-art, robust, time-efficient, general algorithm for classification with noisy labels [published](http://auai.org/uai2017/proceedings/papers/35.pdf) at UAI '17. [pdf](resources/pdf/northcutt_2017_rankpruning.pdf) | [arXiv](https://arxiv.org/abs/1705.01936) | [Github](https://github.com/cgnorthcutt/rankpruning)
-**04-20-17**: Comment Ranking Diversification in Forum Discussions [published](http://dl.acm.org/citation.cfm?id=3054016) in L@S '17. [pdf](resources/pdf/northcutt_2017_diversification.pdf) | [Github](https://github.com/cgnorthcutt/forum-diversification)
-**09-20-16**: CAMEO Cheating Detection in MOOCs and online courses [published](http://www.sciencedirect.com/science/article/pii/S0360131516300896) in Computers & Education '16. [pdf](resources/pdf/northcutt_2017_cameo.pdf) | [arXiv](https://arxiv.org/abs/1508.05699) | [Github](https://github.com/CGNx/edx2bigquery/blob/master/edx2bigquery/make_problem_analysis.py#L1628)
+**<span color='red'>11-15-17</span>**: This website is in transition to better things. It should be complete by early 2018. For now: [Curtis Northcutt's Resume](resources/pdf/cv.pdf)  
+**<span color='red'>08-15-17</span>**: Rank Pruning is a state-of-the-art, robust, time-efficient, general algorithm for classification with noisy labels [published](http://auai.org/uai2017/proceedings/papers/35.pdf) at UAI '17. [pdf](resources/pdf/northcutt_2017_rankpruning.pdf) | [arXiv](https://arxiv.org/abs/1705.01936) | [Github](https://github.com/cgnorthcutt/rankpruning)  
+**<span color='red'>04-20-17</span>**: Comment Ranking Diversification in Forum Discussions [published](http://dl.acm.org/citation.cfm?id=3054016) in L@S '17. [pdf](resources/pdf/northcutt_2017_diversification.pdf) | [Github](https://github.com/cgnorthcutt/forum-diversification)  
+**<span color='red'>09-20-16</span>**: CAMEO Cheating Detection in MOOCs and online courses [published](http://www.sciencedirect.com/science/article/pii/S0360131516300896) in Computers & Education '16. [pdf](resources/pdf/northcutt_2017_cameo.pdf) | [arXiv](https://arxiv.org/abs/1508.05699) | [Github](https://github.com/CGNx/edx2bigquery/blob/master/edx2bigquery/make_problem_analysis.py#L1628)
 
 
 
