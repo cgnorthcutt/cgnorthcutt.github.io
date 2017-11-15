@@ -1,12 +1,10 @@
----
+/*---
 ---
 
 @import "{{ site.theme }}";
 
-/*$width-scale: 1.5;*/
-
 .wrapper {
-  width:1100px;
+  width:10px;
 }
 
 header {
@@ -62,3 +60,4 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+*/
