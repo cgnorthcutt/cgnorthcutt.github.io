@@ -17,14 +17,7 @@
       <header>
         <a href="{{ site.github.url }}"> <h1> Curtis G. Northcutt </h1> </a>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        {% if site.github.is_project_page %}
-          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
+        <p class="view"><a href="{{ site.github.owner_url }}">GitHub</a> | <a href="https://scholar.google.com/citations?user=awRyuUYAAAAJ&hl=en">Google Scholar</a> | <a href="cv.pdf">Resume</a> </p>
 
         {% if site.show_downloads %}
           <ul>
