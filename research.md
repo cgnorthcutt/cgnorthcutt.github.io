@@ -4,4 +4,4 @@ title: Research
 
 # Research
 
-[Homepage](http:/curtisnorthcutt.com/)
+[Homepage](http//:curtisnorthcutt.com/)
