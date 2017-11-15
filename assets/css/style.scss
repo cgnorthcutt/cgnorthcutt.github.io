@@ -5,8 +5,13 @@
 
 header {
   width:480px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
 }
 
 section {
-  width:1000px;
+  width:900px;
+  float:right;
+  padding-bottom:50px;
 }
