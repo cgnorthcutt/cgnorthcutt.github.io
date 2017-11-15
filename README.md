@@ -1,4 +1,4 @@
-<h2> News -- <span color='red'>updated 11/15/17</span></h2>
+<h2> News Highlights -- <span color='red'>updated 11/15/17</span></h2>
 <!-- My [research](http://curtisnorthcutt.com/research.html) will be added soon. -->
 
 <b><span color='red'>11-15-17</span></b>: This website is in transition to better things. It should be complete by early 2018. For now: [Curtis Northcutt's Resume](resources/pdf/cv.pdf)  
@@ -6,7 +6,7 @@
 <b><span color='red'>04-20-17</span></b>: Comment Ranking Diversification in Forum Discussions [published](http://dl.acm.org/citation.cfm?id=3054016) in L@S '17. [pdf](resources/pdf/northcutt_2017_diversification.pdf) | [Github](https://github.com/cgnorthcutt/forum-diversification)  
 <b><span color='red'>09-20-16</span></b>: CAMEO Cheating Detection in MOOCs and online courses [published](http://www.sciencedirect.com/science/article/pii/S0360131516300896) in Computers & Education '16. [pdf](resources/pdf/northcutt_2017_cameo.pdf) | [arXiv](https://arxiv.org/abs/1508.05699) | [Github](https://github.com/CGNx/edx2bigquery/blob/master/edx2bigquery/make_problem_analysis.py#L1628)
 
-
+For the complete list, see: [news](news.md).
 
 ## About 
 
