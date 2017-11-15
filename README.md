@@ -1,18 +1,19 @@
-<!-- # News
+## News -- ```diff + updated 11/15/17```</span>
 
-### Nov 15, 2017
+**11-15-17**: This website is in transition to better things. It should be complete by early 2018.
+<!-- My [research](http://curtisnorthcutt.com/research.html) will be added soon. -->
 
-Looking for [curtisnorthcutt.com](curtisnorthcutt.com)? You are in the right place -- but you've caught me in a transition period. This website will be ready start of 2018.
+For now: [Curtis Northcutt's Resume](resources/pdf/cv.pdf)  
 
-For now: [Curtis Northcutt's Resume](/resources/pdf/cv.pdf)
+**08-15-17**: Rank Pruning is a state-of-the-art, robust, time-efficient, general algorithm for classification with noisy labels [published](http://auai.org/uai2017/proceedings/papers/35.pdf) at UAI '17. [pdf](resources/pdf/northcutt_2017_rankpruning.pdf) | [arXiv](https://arxiv.org/abs/1705.01936) | [Github](https://github.com/cgnorthcutt/rankpruning)
+**04-20-17**: Comment Ranking Diversification in Forum Discussions [published](http://dl.acm.org/citation.cfm?id=3054016) in L@S '17. [pdf](resources/pdf/northcutt_2017_diversification.pdf) | [Github](https://github.com/cgnorthcutt/forum-diversification)
+**09-20-16**: CAMEO Cheating Detection in MOOCs and online courses [published](http://www.sciencedirect.com/science/article/pii/S0360131516300896) in Computers & Education '16. [pdf](resources/pdf/northcutt_2017_cameo.pdf) | [arXiv](https://arxiv.org/abs/1508.05699) | [Github](https://github.com/CGNx/edx2bigquery/blob/master/edx2bigquery/make_problem_analysis.py#L1628)
 
-### Nov 14, 2017
 
-My [research](research.md) will be added soon. -->
 
-## Bio 
+## About 
 
-I am a Ph.D. Candidate in Computer Science at MIT, an [NSF Fellow](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList), and an [MITx Digital Learning Research Fellow](https://odl.mit.edu/about/our-team/curtis-northcutt) working under the supervision of [Isaac Chuang](http://web.mit.edu/physics/people/faculty/chuang_isaac.html). My work spans **robust algorithms for classification with mislabeled training data and noise estimation, noisy learning, weak supervision, semi-supervised learning, cheating detection, and online education**. Some of my awards are the [MIT Morris Joseph Levin Masters Thesis Award](https://www.eecs.mit.edu/news-events/announcements/eecs-celebrates-2015-2016-award-winners), an [NSF Graduate Research Fellowship](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList), the [Barry M. Goldwater National Scholarship](http://act.org/goldwater/sch-2012.html), and the [Vanderbilt Founder’s Medal](http://news.vanderbilt.edu/2013/05/founders-medalists/) (Valedictorian). I created and am responsible for the [cheating detection system](https://www.insidehighered.com/news/2015/08/26/harvard-mit-researchers-find-mooc-learners-using-multiple-accounts-cheat) used by MITx and HarvardX online course teams, particularly the MIT MicroMasters courses. I am a teaching assistant for 6.867, a (300+ students) graduate machine learning course at MIT. I am very fortunate to have had the opportunities to work or intern at Amazon Research, Facebook AI Research (FAIR), Microsoft Research (MSR) India, MIT Lincoln Laboratory, Microsoft, NASA, General Electric, and a National Science Foundation REU including collaborations with MIT, Harvard, Vanderbilt, Notre Dame, and the University of Kentucky.
+I am a fifth-year Ph.D. Candidate in Computer Science at MIT, an [NSF Fellow](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList), and an [MITx Digital Learning Research Fellow](https://odl.mit.edu/about/our-team/curtis-northcutt) working under the supervision of [Isaac Chuang](http://web.mit.edu/physics/people/faculty/chuang_isaac.html). My work spans **robust algorithms for classification with mislabeled training data and noise estimation, noisy learning, weak supervision, semi-supervised learning, cheating detection, and online education**. Some of my awards are the [MIT Morris Joseph Levin Masters Thesis Award](https://www.eecs.mit.edu/news-events/announcements/eecs-celebrates-2015-2016-award-winners), an [NSF Graduate Research Fellowship](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList), the [Barry M. Goldwater National Scholarship](http://act.org/goldwater/sch-2012.html), and the [Vanderbilt Founder’s Medal](http://news.vanderbilt.edu/2013/05/founders-medalists/) (Valedictorian). I created and am responsible for the [cheating detection system](https://www.insidehighered.com/news/2015/08/26/harvard-mit-researchers-find-mooc-learners-using-multiple-accounts-cheat) used by MITx and HarvardX online course teams, particularly the MIT MicroMasters courses. I am a teaching assistant for 6.867, a (300+ students) graduate machine learning course at MIT. I am very fortunate to have had the opportunities to work or intern at Amazon Research, Facebook AI Research (FAIR), Microsoft Research (MSR) India, MIT Lincoln Laboratory, Microsoft, NASA, General Electric, and a National Science Foundation REU including collaborations with MIT, Harvard, Vanderbilt, Notre Dame, and the University of Kentucky.
 
 ## The Gift of Education
 
@@ -28,4 +29,4 @@ To this end, I develop robust machine learning algorithms to enable open learnin
 * Optimize every aspect of your health (social, intellectual, physical, spiritual, religious)
 * Push the boundaries of what is reasonable to achieve the unreasonable.
 * Never stop expanding your viewpoint, welcome every new experience.
-* Don't take yourself too seriously. Do take your work very seriously. 
+* Work seriously, but don't take yourself too seriously. 
