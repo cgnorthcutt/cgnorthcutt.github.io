@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";*/
 
-$width-scale: 1.5;
+/*$width-scale: 1.5;*/
 
 body {
   background-color: #fff;
@@ -111,7 +111,7 @@ img {
 }
 
 header {
-  width:270px * $width-scale;
+  width:405px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -124,14 +124,14 @@ header ul {
   background: #f4f4f4;
   border-radius:5px;
   border:1px solid #e0e0e0;
-  width:270px * $width-scale;
+  width:405px;
 }
 
 header li {
   width:89px;
   float:left;
   border-right:1px solid #e0e0e0;
-  height:40px * $width-scale;
+  height:60px;
 }
 
 header li:first-child a {
@@ -167,7 +167,7 @@ strong {
 
 header ul li + li + li {
   border-right:none;
-  width:89px * $width-scale;
+  width:144px ;
 }
 
 header ul a strong {
@@ -177,7 +177,7 @@ header ul a strong {
 }
 
 section {
-  width:500px * $width-scale;
+  width:750px;
   float:right;
   padding-bottom:50px;
 }
@@ -194,14 +194,14 @@ hr {
 }
 
 footer {
-  width:270px * $width-scale;
+  width:405px;
   float:left;
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-@media print, screen and (max-width: 960px * $width-scale) {
+@media print, screen and (max-width: 1440px) {
 
   div.wrapper {
     width:auto;
@@ -236,7 +236,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 720px * $width-scale) {
+@media print, screen and (max-width: 1080px) {
   body {
     word-wrap:break-word;
   }
@@ -254,7 +254,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 480px * $width-scale) {
+@media print, screen and (max-width: 720px) {
   body {
     padding:15px;
   }
