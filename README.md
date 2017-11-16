@@ -23,7 +23,7 @@ I am a fifth-year Ph.D. Candidate in Computer Science at MIT, an [NSF Fellow](ht
 
 ## Industry and Institutional Research
 
- I am fortunate to have had the opportunity to work or intern at Amazon Research, Facebook AI Research (FAIR), Microsoft Research (MSR) India, MIT Lincoln Laboratory, Microsoft, NASA, General Electric, and a National Science Foundation REU including collaborations with MIT, Harvard, Vanderbilt, Notre Dame, and the University of Kentucky. [Details](/resources/pdf/cv.pdf).
+ I am fortunate to have had the opportunity to work or intern at Amazon Research, Facebook AI Research (FAIR), Microsoft Research (MSR) India, MIT Lincoln Laboratory, Microsoft, NASA, General Electric, and a National Science Foundation REU including collaborations with MIT, Harvard, Vanderbilt, Notre Dame, and the University of Kentucky. Details [here](/resources/pdf/cv.pdf).
 
 ## The Gift of Education
 
