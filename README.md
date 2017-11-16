@@ -4,7 +4,10 @@
 **11-15-17**: This website is in transition to better things. It should be complete by early 2018. For now, here is my [resume](resources/pdf/cv.pdf).  
 **08-15-17**: <b>Rank Pruning</b> is a state-of-the-art, robust, time-efficient, general algorithm for classification with noisy labels published at <a href="http://auai.org/uai2017/proceedings/papers/35.pdf">UAI '17</a>.  <a class="pdf" href="resources/pdf/northcutt_2017_rankpruning.pdf">pdf</a> | <a class="arxiv" href="https://arxiv.org/abs/1705.01936">arXiv</a> | <a class="github" href="https://github.com/cgnorthcutt/rankpruning">GitHub</a>  
 **04-20-17**: <b>Forum Ranking Diversification</b> published at <a href="http://dl.acm.org/citation.cfm?id=3054016">L@S '17</a>.  <a class="pdf" href="resources/pdf/northcutt_2017_diversification.pdf">pdf</a> | <a class="github" href="https://github.com/cgnorthcutt/forum-diversification">GitHub</a>  
-**09-20-16**: <b>CAMEO Cheating Detection in MOOCs</b> and online courses published in <a href="http://www.sciencedirect.com/science/article/pii/S0360131516300896">Computers & Education '16</a>.  <a href="resources/pdf/northcutt_2016_cameo.pdf"> <img src="resources/img/icons/pdf_icon.png" style="height:1em"> </a> | <a class="arxiv" href="https://arxiv.org/abs/1508.05699">arXiv</a> | <a class="github" href="https://github.com/CGNx/edx2bigquery/blob/master/edx2bigquery/make_problem_analysis.py#L1628">GitHub</a> <img src="http://www.w3.org/html/logo/downloads/HTML5_Logo_128.png" />
+**09-20-16**: <b>CAMEO Cheating Detection in MOOCs</b> and online courses published in <a href="http://www.sciencedirect.com/science/article/pii/S0360131516300896">Computers & Education '16</a>.
+<a href="resources/pdf/northcutt_2016_cameo.pdf"> <img src="resources/img/icons/pdf_icon.png" style="height:1em"> </a> 
+<a href="https://arxiv.org/abs/1508.05699"> <img src="resources/img/icons/arxiv_icon.png" style="height:1em"> </a> 
+<a href="https://github.com/CGNx/edx2bigquery/blob/master/edx2bigquery/make_problem_analysis.py#L1628"> <img src="resources/img/icons/github_icon.jpg" style="height:1em"> </a> 
 
 See **[news](md/news.md)** for more. 
 
