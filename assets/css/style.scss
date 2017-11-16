@@ -24,6 +24,8 @@ p, li, span {
 .row-of-links {
   display:flex; 
   justify-content: space-between;
+  font-size: 20px;
+  background-color: #e7e7e7;
 }
 
 a.pdf, a.arxiv, a.github {
