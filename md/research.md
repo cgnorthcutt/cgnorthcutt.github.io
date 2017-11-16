@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Research - Curtis G. Northcutt
 ---
 
 # Research
