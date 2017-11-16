@@ -41,12 +41,8 @@ To this end, I develop robust machine learning algorithms to enable open learnin
 * Never stop expanding your viewpoint, welcome every new experience.
 * Work seriously, but don't take yourself too seriously. 
 
-<div class="row-of-links">
-  <div> [Research](http://curtisnorthcutt.com/research.md) </div>
-  <div> <a href="research.html">Research</a>  </div>
-  <div> <a href="research.md">Research</a>  </div>
-  <div> <a href="http://curtisnorthcutt.com/research.md">Research</a>  </div>
-  <div> <a href="http://curtisnorthcutt.com/research.html">Research</a>  </div>
-  <div> <a href="http://curtisnorthcutt.com/news.html">News</a> </div>
-  <div> <a href="/resources/pdf/cv.pdf">CV</a> </div>
-</div>
+## Navigate this site
+
+[Research](research.md) 
+[News](news.md)
+[CV](resources/pdf/cv.pdf)
