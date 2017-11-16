@@ -21,15 +21,15 @@ p, li, span {
   font-size: 16px;
 }
 
-.row-of-links {
+/*.row-of-links {
   display:flex; 
   justify-content: space-between;
-}
+}*/
 
 .row-of-links div a {
   font-size: 20px;
   background-color: #e7e7e7;
-  padding:15px;
+  padding:10px;
 }
 
 a.pdf, a.arxiv, a.github {
