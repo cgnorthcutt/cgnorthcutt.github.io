@@ -41,8 +41,8 @@ To this end, I develop robust machine learning algorithms to enable open learnin
 * Never stop expanding your viewpoint, welcome every new experience.
 * Work seriously, but don't take yourself too seriously. 
 
-## Navigate this site
+<!-- ## Navigate this site
 
-[Research](research.md) 
-[News](news.md)
-[CV](resources/pdf/cv.pdf)
+[Research](md/research.md) 
+[News](md/news.md)
+[CV](resources/pdf/cv.pdf) -->
