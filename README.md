@@ -7,7 +7,7 @@
 <a href="https://github.com/cgnorthcutt/rankpruning"> <img src="resources/img/icons/github_icon.jpg" style="height:1em"> </a>
 <a href="https://arxiv.org/abs/1705.01936"> <img src="resources/img/icons/arxiv_icon.jpg" style="height:1em"> </a>  
 **04-20-17**: <b>Forum Ranking Diversification</b> published at <a href="http://dl.acm.org/citation.cfm?id=3054016">L@S '17</a>.
-<a href="resources/pdf/northcutt_2017_diversification.pdf"> <img src="resources/img/icons/pdf_icon.png" style="height:1em"> </a>  
+<a href="resources/pdf/northcutt_2017_diversification.pdf"> <img src="resources/img/icons/pdf_icon.png" style="height:1em"> </a>
 <a href="https://github.com/cgnorthcutt/forum-diversification"> <img src="resources/img/icons/github_icon.jpg" style="height:1em"> </a>  
 **09-20-16**: <b>CAMEO Cheating Detection in MOOCs</b> and online courses published in <a href="http://www.sciencedirect.com/science/article/pii/S0360131516300896">Computers & Education '16</a>.
 <a href="resources/pdf/northcutt_2016_cameo.pdf"> <img src="resources/img/icons/pdf_icon.png" style="height:1em"> </a> 
