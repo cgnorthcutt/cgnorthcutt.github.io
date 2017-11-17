@@ -39,4 +39,4 @@ To this end, I develop robust machine learning algorithms to enable open learnin
 * Optimize every aspect of your health (social, intellectual, physical, spiritual, religious)
 * Push the boundaries of what is reasonable to achieve the unreasonable.
 * Never stop expanding your viewpoint, welcome every new experience.
-* Work seriously, but don't take yourself too seriously. 
+* Work seriously, but don't take yourself too seriously 😉
