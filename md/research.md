@@ -4,7 +4,7 @@ title: Research - Curtis G. Northcutt
 
 # Research -- under construction (this is a new website).
 
-Jointly in the MIT Office of Digital Learning and MIT EECS, I am uniquely positioned to solve problems using <b>Artificial Intelligence in Online Education</b>. For a tutorial-style framing of the field, including state-of-the-art AI solutions to important online education problems, as well as bits of my unpublished research, see these <a href="http://curtisnorthcutt.com/resources/pdf/northcutt_mit_2017_ai_in_online_education.pdf">slides</a>a>.
+I am uniquely positioned between the MIT Office of Digital Learning and MIT EECS to solve problems using <b>Artificial Intelligence in Online Education</b>. For a tutorial-style framing of the field, including state-of-the-art AI solutions to important online education problems, as well as bits of my unpublished research, see these <a href="http://curtisnorthcutt.com/resources/pdf/northcutt_mit_2017_ai_in_online_education.pdf">slides</a>.
 
 <b>Rank Pruning</b> is a state-of-the-art, robust, time-efficient, general algorithm for classification with noisy labels published at <a href="http://auai.org/uai2017/proceedings/papers/35.pdf">UAI '17</a>.
 <a href="http://curtisnorthcutt.com/resources/pdf/northcutt_2017_rankpruning.pdf"> <img src="http://curtisnorthcutt.com/resources/img/icons/pdf_icon.png" style="height:1em"> </a> 
