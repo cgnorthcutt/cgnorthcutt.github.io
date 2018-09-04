@@ -9,7 +9,7 @@ title: Bodybuilding - Curtis G. Northcutt
 
 
 
-All of the information presented here is distilled from academic sources at some level, however keep in mind that nutritional claims are typically limited. Many nutritional studies can at most claim that if you take a random sample of N people, nutritional supplement X will improve <something>, on average, among the N people. Nutritional studies rarely claim that if you take supplement X, supplement X will work for you. We are still decades from having a complete model of every process in the human body - therefore we can not make true predictions about the output of the human body as a system, given an input, supplement X, to the system. If you stumble upon such a model, do share, as I'll be happy to accept the Nobel Prize in Medicine/Chemistry with you. 
+All of the information presented here is distilled from academic sources at some level, however keep in mind that nutritional claims are typically limited. Many nutritional studies can at most claim that if you take a random sample of N people, nutritional supplement X will improve "something", on average, among the N people. Nutritional studies rarely claim that if you take supplement X, supplement X will work for you. We are still decades from having a complete model of every process in the human body - therefore we can not make true predictions about the output of the human body as a system, given an input, supplement X, to the system. If you stumble upon such a model, do share, as I'll be happy to accept the Nobel Prize in Medicine/Chemistry with you. 
 
 
 
