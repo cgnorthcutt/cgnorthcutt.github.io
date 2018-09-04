@@ -93,7 +93,9 @@ Casein and egg break, however, provide a slow digesting protein (constant steady
 
 ### Comparison:
 **Whey** - Good for post workout. Causes huge spike in protein synthesis 20-40 minutes after. Doesn't prevent muscle breakdown.
+
 **Egg/Casein** - Good for protein synthesis (minimal) for 8 hours. Prevents muscle breakdown. Causes whey to digest slower if taken together (reduces muscle growth - so don’t take them together, take egg/casein at night).
+
 **Soy** - Much research suggests that soy reduces sperm count and testosterone levels in men, but the protein is fine. Although keep in mind most soy beans have been genetically modified. (As if cows haven't been… the same cows that produce the milk that whey and casein come from. So good luck here.)
 
 
