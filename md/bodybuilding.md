@@ -209,3 +209,7 @@ It really just comes down to eat protein and fiber. Avoid sugar, fat, and salt.
 5. [http://www.bodybuilding.com/fun/5_beginner_supplements.htm](http://www.bodybuilding.com/fun/5_beginner_supplements.htm)
 6. [http://www.mensfitness.com/nutrition/supplements/6-supplements-you-shouldnt-be-skipping](http://www.mensfitness.com/nutrition/supplements/6-supplements-you-shouldnt-be-skipping)
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PfunDpozY6M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lfJ_11yBjYM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
