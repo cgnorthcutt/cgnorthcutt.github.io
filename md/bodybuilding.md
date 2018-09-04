@@ -190,13 +190,14 @@ If you're trying to get ripped and add muscle mass, you'll need more sleep. Stop
 ## Bonus -- Eat healthy:
 
 Increase intake of:
-1. protein
-2. fiber
+1. protein -- Somewhere between 0.5 grams to 1.3 grams per pound of body weight per day, depending on how much you're working out. For example, I weigh ~175lbs and aim for ~150g of protein.
+2. fiber -- Aim for 20-30g per day. High consumption of protein powders is like pouring sand into your sink -- fiber + water helps move this stuff through. Just trust me on this one and do your digestive track a favor -- eat lots of fiber!
 
 Avoid:
-1. sugar (try to NEVER eat foods with added sugar -- candy / soda / juice with added sugar)
-2. fat (try to NEVER eat saturated fat, a little unsaturated fat is okay - avocados / fish oils / etc)
-3. salt (This is a big one - too much salt decreases your muscle's weight to power ratio)
+1. sugar -- try to NEVER eat foods with added sugar -- candy / soda / juice with added sugar
+2. fat -- try to NEVER eat saturated fat, a little unsaturated fat is okay - avocados / fish oils / etc
+3. salt -- This is a big one - too much salt decreases your muscle's weight to power ratio.
+
 It really just comes down to eat protein and fiber. Avoid sugar, fat, and salt.
 
 
