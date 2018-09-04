@@ -24,7 +24,7 @@ Although BULK-CUT is arguably one of the faster (and most common) ways to get bi
 
 
 
-**The most important thing is to stick with it.** 90% of people who start working out quit in the first two weeks. This is one of the saddest self-crimes one can do. Why? Because two weeks of hard works is now wasted and if you just hang in there a little longer, after the first month, you'll start to notice the benefits.... improvement in size, muscle definition, overall health, alertness, mental clarity, endorphin release, libido, and overall moral and confidence. These benefits are just the "pick-me-up" you need to keep going. After 3 months, you'll notice dramatic improvements. If you don't, then your money back... oh wait, I'm not charging anything. Damn.
+**The most important thing is to stick with it.** 90% of people who start working out quit in the first two weeks. This is one of the saddest self-crimes one can do. Why? Because two weeks of hard works is now wasted and if you just hang in there a little longer, after the first month, you'll start to notice the benefits.... improvement in size, muscle definition, overall health, alertness, mental clarity, endorphin release, libido, and overall moral and confidence. These benefits are just the "pick-me-up" you need to keep going. After 3 months, you'll notice dramatic improvements. If you don't, then your money back... oh wait, I'm not charging anything. 
 
 
 
