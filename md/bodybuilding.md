@@ -6,6 +6,8 @@ title: Bodybuilding - Curtis G. Northcutt
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zh411Gg8DRg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+<br>
+
 **Disclaimer before reading**: If you have questions about your health, you should consult the advice of a medical physician or professional. Also, I encourage you to do your own research! If you want to know more about a supplement, muscle group, or workout routine, try searching it on [Semantic Scholar](https://www.semanticscholar.org/), [Google Scholar](https://scholar.google.com/) or [MIT's Web of Science](http://apps.webofknowledge.com.libproxy.mit.edu/) to learn more from actual publications -- not advertisements!! Note that MIT's Web of Science is filtered (typically articles are from journals, not  pdf's of a website that might end up on Google Scholar). 
 
 
