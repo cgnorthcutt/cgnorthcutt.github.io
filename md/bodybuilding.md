@@ -92,11 +92,11 @@ Whey is quickly absorbed into the blood and causes a huge spike in amino acid co
 Casein and egg break, however, provide a slow digesting protein (constant steady small amount of amino acids available in bloodstream for about 8 hours) that will prevent muscle breakdown. If you take casein&whey together, the casein or egg will prevent the whey from being digested - so DON’T do this! Take whey post workout, then casein/egg sometime before bed.
 
 ### Comparison:
-**Whey** - Good for post workout. Causes huge spike in protein synthesis 20-40 minutes after. Doesn't prevent muscle breakdown.
+1. **Whey** - Good for post workout. Causes huge spike in protein synthesis 20-40 minutes after. Doesn't prevent muscle breakdown.
 
-**Egg/Casein** - Good for protein synthesis (minimal) for 8 hours. Prevents muscle breakdown. Causes whey to digest slower if taken together (reduces muscle growth - so don’t take them together, take egg/casein at night).
+2. **Egg/Casein** - Good for protein synthesis (minimal) for 8 hours. Prevents muscle breakdown. Causes whey to digest slower if taken together (reduces muscle growth - so don’t take them together, take egg/casein at night).
 
-**Soy** - Much research suggests that soy reduces sperm count and testosterone levels in men, but the protein is fine. Although keep in mind most soy beans have been genetically modified. (As if cows haven't been… the same cows that produce the milk that whey and casein come from. So good luck here.)
+3. **Soy** - Much research suggests that soy reduces sperm count and testosterone levels in men, but the protein is fine. Although keep in mind most soy beans have been genetically modified. (As if cows haven't been… the same cows that produce the milk that whey and casein come from. So good luck here.)
 
 
 
