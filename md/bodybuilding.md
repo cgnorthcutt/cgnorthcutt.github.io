@@ -20,7 +20,7 @@ Typically, bodybuilders struggle with a common conundrum. To get big, you have t
 
 
 
-Although BULK-CUT is arguably one of the faster (and most common) ways to get big (increase muscle mass) and ripped (maintain low body fat) at the same time, this up-and-down cycle can be difficult for many weightlifters/bodybuilders. Firstly, requires constantly changing your lifestyle and eating habits. Secondly, it requires sacrificing your toned physique towards the end of the BULK phase. Thirdly, cutting too many calories can stunt your metabolism, preventing you from losing weight.  Instead, I present a supplement / workout regime which allows you to gain muscle mass while maintaining low body fat, at the added expense of increased effort, endurance/cardio training and added patience. To mitigate the increased intensity, this regime prescribes a strict supplement intake that will boost you through to success by optimizing the "muscle growth" / "power expended" ratio. 
+Although BULK-CUT is arguably one of the faster (and most common) ways to get big (increase muscle mass) and ripped (maintain low body fat) at the same time, this up-and-down cycle can be difficult for many weightlifters/bodybuilders. Firstly, it requires constantly changing your lifestyle and eating habits. Secondly, it requires sacrificing your toned physique towards the end of the BULK phase. Thirdly, cutting too many calories can stunt your metabolism, preventing you from losing weight.  Instead, I present a supplement / workout regime which allows you to gain muscle mass while maintaining low body fat, at the added expense of increased effort, endurance/cardio training and added patience. To mitigate the increased intensity, this regime prescribes a strict supplement intake that will boost you through to success by optimizing the "muscle growth" / "power expended" ratio. 
 
 
 
@@ -28,11 +28,11 @@ Although BULK-CUT is arguably one of the faster (and most common) ways to get bi
 
 
 
-Always keep in mind, what works for me, or for your friend, or for the author of the article you just read... might not work as well for you. You must experiment to figure out what works best for you. Try new things, add variations to your workouts, read contradicting articles, experiment, experiment, experiment. Why? Well beyond figuring out what works best for you, its a great way to keep your routine an exciting part of your day - something to look forward to. Hmm... I wonder if this will work better than that? 
+Always keep in mind, what works for me, or for your friend, or for the author of the article you just read... might not work as well for you. You must experiment to figure out what works best for you. Try new things, add variations to your workouts, read contradicting articles, experiment, experiment, experiment. Why? Well beyond figuring out what works best for you, it's a great way to keep your routine an exciting part of your day and something to look forward to. 
 
 
 
-Finally, for beginners, ease into it. Start with lighter weights than you think you can do for the first month. Before workouts, don't be afraid to warm up with light push-ups or stretches. Going from zero workouts, to intensive working out will be a shock to your body. Be good to your body and ease into it, slowly increasing the weights as you become comfortable with the motions of the exercise. 
+**Finally, for beginners, ease into it. Start with lighter weights than you think you can do for the first month.** Before workouts, don't be afraid to warm up with light push-ups or stretches. Going from zero workouts, to intensive working out will be a shock to your body. Be good to your body and ease into it, slowly increasing the weights as you become comfortable with the motions of the exercise. 
 
 
 
@@ -59,15 +59,15 @@ Let's begin.
 
 
 ## Some recommended workouts to cycle:
-​1. [http://www.bodybuilding.com/fun/wotw37.htm](http://www.bodybuilding.com/fun/wotw37.htm)
+1. [http://www.bodybuilding.com/fun/wotw37.htm](http://www.bodybuilding.com/fun/wotw37.htm)
 2. [http://www.bodybuilding.com/fun/top-3-muscle-building-routines-max-muscle-gains.htm](http://www.bodybuilding.com/fun/top-3-muscle-building-routines-max-muscle-gains.htm)
-​3. [http://www.bodybuilding.com/fun/essential-8-exercises-to-get-ripped.htm](http://www.bodybuilding.com/fun/essential-8-exercises-to-get-ripped.htm)
+3. [http://www.bodybuilding.com/fun/essential-8-exercises-to-get-ripped.htm](http://www.bodybuilding.com/fun/essential-8-exercises-to-get-ripped.htm)
 
-## Arnold Schwarzenegger's Workouts
+## Arnold's Workouts:
 Other than perhaps theoretical computer scientist [Manuel Blum](https://www.cs.cmu.edu/~mblum/), Arnold Schwarzenegger has always been a role model for me, along with about a 100 million other people who go to the gym. That's because Arnold completely changed the game of weightlifting and bodybuilding - dominating Mr. Universe for nearly a decade, before becoming one of the most famous actors of all time, and then serving as governer of California. Recently, in partnership with [bodybuilding.com](https://www.bodybuilding.com), Arnold released his blueprints for working out. The goal is always the same -- **GET BIG, GET CUT**. He released his workouts seperately, and they are meant to be cycled. 8 weeks of growth, break for a week or two, then 8 weeks of cutting. **Beware!** these workouts are intense! Don't start here. But if you've already been working out for a few years, and you want to see a **next-level-of-progress**, these two workouts will change the way you think about working out. I've done both and I'd argue they are a bit old school - they don't cover the full range of motion of every muscle, and they are full of redundant repetitions instead of variation. However, it does work. You will get bigger. You will get more cut. **Just remember to add stretching and warm-ups, which aren't included in the workouts.** 
 Cycle:
 1. [Arnold's Blueprint to Mass Workout](https://www.bodybuilding.com/fun/arnold-schwarzenegger-blueprint-trainer-main.html)
-2. [Arnold's Blueprint to Mass Workout](https://www.bodybuilding.com/fun/arnold-schwarzeneggers-blueprint-to-cut.html)
+2. [Arnold's Blueprint to Cut Workout](https://www.bodybuilding.com/fun/arnold-schwarzeneggers-blueprint-to-cut.html)
 
 
 
@@ -101,19 +101,19 @@ Casein and egg break, however, provide a slow digesting protein (constant steady
 
 ## Supplement Timing:​
 **In morning, (or spread throughout day) take these supplements**:
-A. Workout performance vitamin(s) (not a lame general multi-vitamin)
-B. 2-3 Fish oil capsules
-C. 1-2 Glucosamine pills
+1. Workout performance vitamin(s) (not a lame general multi-vitamin)
+2. 2-3 Fish oil capsules
+3. 1-2 Glucosamine pills
 
 **Before and after workout, consume (use recommended dosage on bottle)**:
-A. Whey Protein (take alone in morning as well)
-B. Creatine
-C. Beta Alanine
-D. BCAA (branch-chain amino acids) only right before workout
+1. Whey Protein (take alone in morning as well)
+2. Creatine
+3. Beta Alanine
+4. BCAA (branch-chain amino acids) only right before workout
 
 
 **Before sleeping (very important)**:
-A. Casein protein in water
+1. Casein protein in water
 
 
 
@@ -138,7 +138,9 @@ Some highly effective workout vitamins to purchase are:
 2. Optimum Nutrition Opti-Men / Opti-Women
 
 
-Workout vitamins are essential for overall health and recovery. Workout vitamins typically include things like green tea extract and other natural extracts which collectively had a variety of health benefits beyond the vitamin and mineral content
+Workout vitamins are essential for overall health and recovery. Workout vitamins typically include things like green tea extract and other natural extracts which collectively had a variety of health benefits beyond the vitamin and mineral content. 
+
+Pay attention to how your body reacts to these things. If you find yourself having to pee every 15 minutes, you probably are taking too much of something and that's your body's way of getting rid of it. This can happen for example if you take a workout vitamin with 100% of your daily value of vitamins/minerals, then you also eat a large bowl of cereal (that contains 100% DV vitamins) plus drink some drink/shake (that also contains 100% DV vitamins) -- this is not good! Don't do this.
 
 **Greens Supplement (in morning or as directed)**:
 Greens supplements ensure you consume a full day's worth of the most healthy vegetables/fruits, everyday. These supplements contains everything in vegetables/fruits that the vitamin misses. This is essential for healthy living, not just bodybuilding.
@@ -180,22 +182,25 @@ Taking these just before a workout will:
 **Glucosamine (take in morning)**:
 Glucosamine is extremely important for joints and tendons. Its primary purpose is for joint recovery (preventing the pain caused from working out over the years), but it has another important purpose. Bodybuilders who have been lifting weights for over 10 years may suffer from a variety of joint and bone issues due to the high chronic stress on these areas. Glucosamine is a long-term preventative supplement which aids in maintaining bone and joint health with continual weight training. You may not appreciate it today, but you will in twenty years. Additionally, if you went to the doctor with natural joint pain, glucosamine is a standard recommendation. If you are suffering from joint issues, you should of course seek the advice of a medical professional.
 
-## Bonus: Sleep:
+## Bonus -- Sleep:
 If you're trying to get ripped and add muscle mass, you'll need more sleep. Stop trying to get around this and accept it as fact. If you don't sleep enough, you won't get stronger.
 
-## Bonus: Eat healthy (as easy as 2+,3-):
-+ Large amounts of protein
-+ Large amounts of fiber
-- Avoid sugar at all costs
-- Avoid fat
-- Avoid sodium
+## Bonus -- Eat healthy:
+Increase intake of:
+1. protein
+2. fiber
+Avoid:
+1. sugar (try to NEVER eat foods with added sugar -- candy / soda / juice with added sugar)
+2. fat (try to NEVER eat saturated fat, a little unsaturated fat is okay - avocados / fish oils / etc)
+3. salt (This is a big one - too much salt decreases your muscle's weight to power ratio)
+It really just comes down to eat protein and fiber. Avoid sugar, fat, and salt.
 
 
 ## For more information, here are some (mostly non-academic) other sources:
-[http://www.jissn.com/content/11/1/20](http://www.jissn.com/content/11/1/20)
-[http://www.bodybuilding.com/fun/supplement-time-timing-is-everything.html](http://www.bodybuilding.com/fun/supplement-time-timing-is-everything.html)
-[http://www.bodybuilding.com/fun/explosive-growth-your-summer-supplement-strategy.htm](http://www.bodybuilding.com/fun/explosive-growth-your-summer-supplement-strategy.htm)
-[http://www.bodybuilding.com/fun/5-supplement-must-haves-on-a-budget.html](http://www.bodybuilding.com/fun/5-supplement-must-haves-on-a-budget.html)
-[http://www.bodybuilding.com/fun/5_beginner_supplements.htm](http://www.bodybuilding.com/fun/5_beginner_supplements.htm)
-[http://www.mensfitness.com/nutrition/supplements/6-supplements-you-shouldnt-be-skipping](http://www.mensfitness.com/nutrition/supplements/6-supplements-you-shouldnt-be-skipping)
+1. [http://www.jissn.com/content/11/1/20](http://www.jissn.com/content/11/1/20)
+2. [http://www.bodybuilding.com/fun/supplement-time-timing-is-everything.html](http://www.bodybuilding.com/fun/supplement-time-timing-is-everything.html)
+3. [http://www.bodybuilding.com/fun/explosive-growth-your-summer-supplement-strategy.htm](http://www.bodybuilding.com/fun/explosive-growth-your-summer-supplement-strategy.htm)
+4. [http://www.bodybuilding.com/fun/5-supplement-must-haves-on-a-budget.html](http://www.bodybuilding.com/fun/5-supplement-must-haves-on-a-budget.html)
+5. [http://www.bodybuilding.com/fun/5_beginner_supplements.htm](http://www.bodybuilding.com/fun/5_beginner_supplements.htm)
+6. [http://www.mensfitness.com/nutrition/supplements/6-supplements-you-shouldnt-be-skipping](http://www.mensfitness.com/nutrition/supplements/6-supplements-you-shouldnt-be-skipping)
 
