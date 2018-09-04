@@ -188,9 +188,11 @@ Glucosamine is extremely important for joints and tendons. Its primary purpose i
 If you're trying to get ripped and add muscle mass, you'll need more sleep. Stop trying to get around this and accept it as fact. If you don't sleep enough, you won't get stronger.
 
 ## Bonus -- Eat healthy:
+
 Increase intake of:
 1. protein
 2. fiber
+
 Avoid:
 1. sugar (try to NEVER eat foods with added sugar -- candy / soda / juice with added sugar)
 2. fat (try to NEVER eat saturated fat, a little unsaturated fat is okay - avocados / fish oils / etc)
