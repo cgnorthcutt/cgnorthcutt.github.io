@@ -19,8 +19,14 @@ See **[news](md/news.md)** for more.
 
 ## About 
 
-I am a sixth-year Ph.D. Candidate in Computer Science at MIT, an [NSF Fellow](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList), and an [MITx Digital Learning Research Fellow](https://odl.mit.edu/about/our-team/curtis-northcutt) working under the supervision of [Isaac Chuang](http://web.mit.edu/physics/people/faculty/chuang_isaac.html). My work spans **robust algorithms for classification with mislabeled training data and noise estimation, noisy learning, weak supervision, semi-supervised learning, cheating detection, and online education**. Some of my awards are the [MIT Morris Joseph Levin Masters Thesis Award](https://www.eecs.mit.edu/news-events/announcements/eecs-celebrates-2015-2016-award-winners), an [NSF Graduate Research Fellowship](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList), the [Barry M. Goldwater National Scholarship](http://act.org/goldwater/sch-2012.html), and the [Vanderbilt Founder’s Medal](http://news.vanderbilt.edu/2013/05/founders-medalists/) (Valedictorian). I created and manage the [cheating detection system](https://www.insidehighered.com/news/2015/08/26/harvard-mit-researchers-find-mooc-learners-using-multiple-accounts-cheat) used by MITx and HarvardX online course teams, particularly the MIT MicroMasters courses. I am a teaching assistant for 6.867, a (300+ students) graduate machine learning course at MIT.
+I am a sixth-year Ph.D. Candidate in Computer Science at MIT, an [NSF Fellow](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList), and an [MITx Digital Learning Research Fellow](https://odl.mit.edu/about/our-team/curtis-northcutt) working with [Isaac Chuang](http://web.mit.edu/physics/people/faculty/chuang_isaac.html). My work spans **robust algorithms for classification with mislabeled training data and noise estimation, noisy learning, weak supervision, semi-supervised learning, cheating detection, and online education**. I have been fortunate to receive the [MIT Morris Joseph Levin Masters Thesis Award](https://www.eecs.mit.edu/news-events/announcements/eecs-celebrates-2015-2016-award-winners), an [NSF Graduate Research Fellowship](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList), the [Barry M. Goldwater National Scholarship](http://act.org/goldwater/sch-2012.html), and the [Vanderbilt Founder’s Medal](http://news.vanderbilt.edu/2013/05/founders-medalists/) (Valedictorian). I created and manage the [cheating detection system](https://www.insidehighered.com/news/2015/08/26/harvard-mit-researchers-find-mooc-learners-using-multiple-accounts-cheat) used by MITx and HarvardX online course teams, particularly the MIT MicroMasters courses. In the past, I've TA'd 6.867, a (300+ students) graduate machine learning course at MIT.
 
+## Research Focii/Goals
+
+* The use of artificial intelligence to improve human intelligence.
+* Fixing (or learning in spite of) label errors, particularly in ML benchmark datasets.
+* Efforts that challenge current paradigms in machine learning and encourage rigor.
+* Applications of AI and ML for social good.
 
 ## Industry and Institutional Research
 
@@ -41,3 +47,5 @@ To this end, I develop robust machine learning algorithms to enable open learnin
 * Push the boundaries of what is reasonable to achieve the unreasonable.
 * Never stop expanding your viewpoint, welcome every new experience.
 * Work seriously, but don't take yourself too seriously 😉
+
+### When asked if I like rap, I always recommend [PomDP the PhD rapper](http://pomdp.productions).
