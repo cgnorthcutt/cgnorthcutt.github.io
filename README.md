@@ -1,7 +1,7 @@
 <h2> News Highlights -- <span>updated 12/01/17</span></h2>
 <!-- My [research](md/research.md) will be added soon. -->
 
-**12-01-17**: This is a new site and currently under construction. It should be complete by early 2018. For now, here is my [resume](resources/pdf/cv.pdf).  
+**01-20-19**: Announcing the L7 blog! A place for machine learning and human learning. http://l7.curtisnorthcutt.com  
 **11-30-17**: For a tutorial-style framing of the field of <b>Artificial Intelligence in Online Education</b>, including state-of-the-art solutions to important online education problems, as well as bits of my unpublished research, see these <a href="http://curtisnorthcutt.com/resources/pdf/northcutt_mit_2017_ai_in_online_education.pdf">slides</a>. <a href="http://curtisnorthcutt.com/resources/pdf/northcutt_mit_2017_ai_in_online_education.pdf"> <img src="http://curtisnorthcutt.com/resources/img/icons/pdf_icon.png" style="height:1em"> </a>  
 **08-15-17**: <b>Rank Pruning</b> is a state-of-the-art, robust, time-efficient, general algorithm for classification with noisy labels published at <a href="http://auai.org/uai2017/proceedings/papers/35.pdf">UAI '17</a>.
 <a href="resources/pdf/northcutt_2017_rankpruning.pdf"> <img src="resources/img/icons/pdf_16.png" style="height:1em"> </a> 
