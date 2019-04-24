@@ -36,7 +36,7 @@ Curtis has been fortunate to receive the [MIT Morris Joseph Levin Masters Thesis
  
  * **Google AI Research** in NYC (2019)
  * **Oculus Research** / FRL in Redmond, WA (2018-2019)
- * **Amazon Research** in Cambridge, MA (2017)
+ * **Amazon AI Research** in Cambridge, MA (2017)
  * **Facebook AI Research** in NYC (2016)
  * **Microsoft Research India** in Bangalore (2014) 
  * **MIT Lincoln Laboratory** in Lexington, MA (2013)
