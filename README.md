@@ -32,7 +32,20 @@ Curtis has been fortunate to receive the [MIT Morris Joseph Levin Masters Thesis
 
 ## Industry and Institutional Research
 
- I am fortunate to have had the opportunity to work or intern at Amazon Research, Facebook AI Research (FAIR), Microsoft Research (MSR) India, MIT Lincoln Laboratory, Microsoft, NASA, General Electric, and a National Science Foundation REU including collaborations with MIT, Harvard, Vanderbilt, Notre Dame, and the University of Kentucky. Details [here](/resources/pdf/cv.pdf).
+ I am fortunate to have had the opportunity to work or intern at:
+ 
+ * Google AI Research (NYC, 2019)
+ * Oculus Research (now Facebook Reality Labs) (Redmond 2018-2019)
+ * Amazon Research (Boston 2017)
+ * Facebook AI Research (NYC 2016)
+ * Microsoft Research India (Bangalore 2014) 
+ * MIT Lincoln Laboratory (Lexington 2013)
+ * Microsoft (Redmond 2012)
+ * National Science Foundation (NSF) REU (Notre Dame 2011)
+ * General Electric Engineering (Louisville 2010)
+ * NASA (Langford 2009)
+ 
+ as well as academic collaborations and visiting research with MIT, Harvard, Vanderbilt, Notre Dame, and the University of Kentucky. Details [here](/resources/pdf/cv.pdf).
 
 ## The Gift of Education
 
