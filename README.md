@@ -1,4 +1,4 @@
-<h2> News Highlights -- <span>updated 12/01/17</span></h2>
+<h2> News Highlights -- <span>updated 01-20-19</span></h2>
 <!-- My [research](md/research.md) will be added soon. -->
 
 **01-20-19**: Announcing the L7 blog! A place for machine learning and human learning: [l7.curtisnorthcutt.com](http://l7.curtisnorthcutt.com) <br>
