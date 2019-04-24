@@ -17,13 +17,13 @@
 
 See **[news](md/news.md)** for more. 
 
-## About (in third person)
+## About
 
 Curtis G. Northcutt is a grad student in Computer Science at MIT, supported by [a NSF Fellowship](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList) and a [MITx Digital Learning Research Fellowship](https://odl.mit.edu/about/our-team/curtis-northcutt) working with [Isaac Chuang](http://web.mit.edu/physics/people/faculty/chuang_isaac.html). His work focuses on two goals: (1) characterizing and fixing (or learning in spite of) label errors in machine learning datasets, (2) using artificial intelligence to enable human intelligence. To this end, Curtis invented *confident learning*, a family of theory and algorithms for learning with label errors, and created [cleanlab](https://github.com/cgnorthcutt/cleanlab), a Python package using confident learning to find label errors in datasets, characterize label noise, and learn with noisy labels. Other fields related to Curtis's work are weak supervision, semi-supervised learning, and online education.
 
 Curtis has been fortunate to receive the [MIT Morris Joseph Levin Masters Thesis Award](https://www.eecs.mit.edu/news-events/announcements/eecs-celebrates-2015-2016-award-winners), an [NSF Graduate Research Fellowship](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList), the [Barry M. Goldwater National Scholarship](http://act.org/goldwater/sch-2012.html), and the [Vanderbilt Founder’s Medal](http://news.vanderbilt.edu/2013/05/founders-medalists/) (Valedictorian). Curtis created and manages the [cheating detection system](https://www.insidehighered.com/news/2015/08/26/harvard-mit-researchers-find-mooc-learners-using-multiple-accounts-cheat) used by MITx and HarvardX online course teams, particularly the MIT MicroMasters courses. While at MIT, he TA'd 6.867, a large graduate machine learning course.
 
-## Research Focii/Goals
+## Research Manifesto
 
 * The use of artificial intelligence to improve human intelligence.
 * Fixing (or learning in spite of) label errors, particularly in ML benchmark datasets.
