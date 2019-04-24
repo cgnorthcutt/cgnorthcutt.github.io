@@ -35,7 +35,7 @@ Curtis has been fortunate to receive the [MIT Morris Joseph Levin Masters Thesis
  I am fortunate to have had the opportunity to work or intern at:
  
  * **Google AI Research** in NYC (2019)
- * **Oculus Research** / FRL in Redmond, WA(2018-2019)
+ * **Oculus Research** / FRL in Redmond, WA (2018-2019)
  * **Amazon Research** in Cambridge, MA (2017)
  * **Facebook AI Research** in NYC (2016)
  * **Microsoft Research India** in Bangalore (2014) 
