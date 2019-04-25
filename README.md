@@ -43,7 +43,7 @@ Curtis has been fortunate to receive the [MIT Morris Joseph Levin Masters Thesis
  * **Microsoft** in Redmond, WA (2012)
  * **National Science Foundation NSF REU** at Notre Dame (2011)
  * **General Electric Engineering** in Louisville, KY (2010)
- * **NASA** Langley Research Center in Hampton, VA (2009)
+ * **NASA Langley Research Center** in Hampton, VA (2009)
  
  as well as academic collaborations and visiting research with MIT, Harvard, Vanderbilt, Notre Dame, and the University of Kentucky. Details [here](/resources/pdf/cv.pdf).
 
