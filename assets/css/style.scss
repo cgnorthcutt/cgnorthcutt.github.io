@@ -3,6 +3,17 @@
 
 @import "{{ site.theme }}";
 
+/*Added by curtis*/
+.wrapper {
+  width: 1060px;
+}
+
+section {
+  width:700px;
+}
+
+/*no longer added by curtis below here */
+
 header {
   position:static;
 }
