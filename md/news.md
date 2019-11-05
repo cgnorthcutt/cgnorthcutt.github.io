@@ -2,7 +2,7 @@
 title: News - Curtis G. Northcutt
 ---
 
-# News -- under construction (this is a new website).
+# News
 
 **12-01-17**: This website is in transition to better things. It should be complete by early 2018. For now, here is my [resume](https://curtisnorthcutt.com/resources/pdf/cv.pdf). 
 

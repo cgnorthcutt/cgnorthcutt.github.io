@@ -2,7 +2,7 @@
 title: Research - Curtis G. Northcutt
 ---
 
-# Research -- under construction (will update in 2020).
+# Research Highlights
 
 I am uniquely positioned between the <a href="https://openlearning.mit.edu/">MIT Office of Digital Learning</a> and <a href="https://www.eecs.mit.edu/">MIT EECS</a> to solve problems using <b>Artificial Intelligence in Online Education</b>. For a tutorial-style framing of the field, including state-of-the-art AI solutions to important online education problems, as well as bits of my unpublished research, see these <a href="https://curtisnorthcutt.com/resources/pdf/northcutt_mit_2017_ai_in_online_education.pdf">slides</a>. <a href="https://curtisnorthcutt.com/resources/pdf/northcutt_mit_2017_ai_in_online_education.pdf"> <img src="https://curtisnorthcutt.com/resources/img/icons/pdf_icon.png" style="height:1em"> </a>
 

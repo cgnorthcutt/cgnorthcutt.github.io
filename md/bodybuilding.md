@@ -2,6 +2,14 @@
 title: Bodybuilding - Curtis G. Northcutt
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-6783036440051455",
+          enable_page_level_ads: true
+     });
+</script>
+
 # How to get big and ripped -- at the same time!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zh411Gg8DRg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
