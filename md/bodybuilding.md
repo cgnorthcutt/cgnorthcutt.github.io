@@ -1,8 +1,8 @@
 ---
-title: Bodybuilding - Curtis G. Northcutt
+title: Bodybuilding by Curtis G. Northcutt
 ---
 
-# How to get big and ripped -- at the same time!
+# Bodybuilding: Increase size without sacrificing definition
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zh411Gg8DRg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -10,7 +10,7 @@ title: Bodybuilding - Curtis G. Northcutt
 
 **Disclaimer before reading**: If you have questions about your health, you should consult the advice of a medical physician or professional. Also, I encourage you to do your own research! If you want to know more about a supplement, muscle group, or workout routine, try searching it on [Semantic Scholar](https://www.semanticscholar.org/), [Google Scholar](https://scholar.google.com/) or [MIT's Web of Science](http://apps.webofknowledge.com.libproxy.mit.edu/) to learn more from actual publications -- not advertisements!! Note that MIT's Web of Science is filtered (typically articles are from journals, not  pdf's of a website that might end up on Google Scholar). 
 
-
+**Disclaimer 2**: This article was written by a younger, more exuberant version of myself. Excuse (or enjoy) my tendency towards over-excitement, exclaimations, and the like :)
 
 All of the information presented here is distilled from academic sources at some level, however keep in mind that nutritional claims are typically limited. Many nutritional studies can at most claim that if you take a random sample of N people, nutritional supplement X will improve *something*, **on average**, among the N people. Nutritional studies rarely claim that if *you* take supplement X, supplement X will work for *you*. We are still decades from having a complete model of every process in the human body - therefore we can not make true predictions about the output of the human body as a system, given an input, supplement X, to the system. If you stumble upon such a model, do share, as I'll be happy to accept the Nobel Prize in Medicine/Chemistry with you. 
 
