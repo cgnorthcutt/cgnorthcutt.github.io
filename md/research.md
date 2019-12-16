@@ -9,6 +9,8 @@ For an overview of my published research, please visit [Google Scholar](https://
 
 In addition to my MIT research, I am [Chief AI Scientist](https://www.anoto.com/anoto-announces-the-establishment-of-kait-solutions-inc-a-us-subsidiary-for-its-education-software/) at [Knowledge AI](https://kaitsolutions.com/), the principal author of the [L7 machine learning blog](https://l7.curtisnorthcutt.com/), a rapper by the name of [PomDP the PhD rapper](https://www.phdrapper.com/), and a contingent research scientist at [Oculus Research](https://www.oculus.com/research/?locale=en_US). 
 
+I've helped tens-hundreds of researchers [build affordable state-of-the-art deep learning machines](https://l7.curtisnorthcutt.com/the-best-4-gpu-deep-learning-rig). My work in this area is available in [L7 machine learning blog](https://l7.curtisnorthcutt.com/tag/build-gpu-rig/)
+
 
 ## Selected relevant papers / projects
 
