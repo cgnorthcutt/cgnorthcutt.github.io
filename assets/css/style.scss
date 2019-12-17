@@ -6,6 +6,22 @@
 
 /* Curtis code */
 
+/* desktop screen */
+section {
+  width:700px;  
+  float:right;
+  padding-bottom:50px;
+}
+
+p, li, span {
+  font-size: 16px;
+}
+
+.wrapper {
+  width:1060px;
+  margin:0 auto;
+}
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
@@ -40,19 +56,7 @@
   
 }
 
-/* desktop screen */
-section {
-  width:700px;  
-  float:right;
-  padding-bottom:50px;
-}  
-p, li, span {
-  font-size: 16px;
-}
-.wrapper {
-  width:1060px;
-  margin:0 auto;
-}
+
 
 /* End curtis added stuff */
 
