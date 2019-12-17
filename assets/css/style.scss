@@ -38,15 +38,10 @@ p, li, span {
   font-size: 16px;
 }
 
-
-@media screen and (min-width: 320px) {
+/* added by curtis*/
+@media screen{
   p, li, span {
-    font-size: calc(16px + 6 * ((100vw - 320px) / 680));
-  }
-}
-@media screen and (min-width: 1000px) {
-  p, li, span {
-    font-size: 22px;
+    font-size: 28px;
   }
 }
 
