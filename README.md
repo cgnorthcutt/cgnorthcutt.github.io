@@ -10,10 +10,14 @@ See **[news](md/news.md)** for more.
 
 ## About
 
-I am a sixth-year grad student at MIT in machine learning, advised by [Isaac Chuang](https://web.mit.edu/physics/people/faculty/chuang_isaac.html), and supported by an [NSF Fellowship](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList) and a [MITx Digital Learning Research Fellowship](https://odl.mit.edu/about/our-team/curtis-northcutt). My research focuses on two goals: (1) [dataset uncertainty estimation](https://l7.curtisnorthcutt.com/confident-learning), (2) the synergy of [artificial intelligence to augment human intelligence](https://arxiv.org/abs/1508.05699). To this end, I established [confident learning](https://l7.curtisnorthcutt.com/confident-learning), a family of theory and algorithms for characterizing, finding, and learning with label errors in datasets, and [cleanlab](https://github.com/cgnorthcutt/cleanlab), the official Python framework for machine learning and deep learning with noisy labels in datasets.
+I am a sixth-year PhD candidate in EECS at MIT advised by [Isaac Chuang](https://web.mit.edu/physics/people/faculty/chuang_isaac.html), and supported by an [NSF Fellowship](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList) and a [MITx Digital Learning Research Fellowship](https://odl.mit.edu/about/our-team/curtis-northcutt).
+
+My research focuses on two goals: (1) [dataset uncertainty estimation](https://l7.curtisnorthcutt.com/confident-learning), (2) the synergy of [artificial intelligence to augment human intelligence](https://arxiv.org/abs/1508.05699). To this end, I established [confident learning](https://l7.curtisnorthcutt.com/confident-learning) with co-authors [Lu Jiang, a family of theory and algorithms for characterizing, finding, and learning with label errors in datasets, and [cleanlab](https://github.com/cgnorthcutt/cleanlab), the official Python framework for machine learning and deep learning with noisy labels in datasets.
 For an overview of my published research, please visit [Google Scholar](https://scholar.google.com/citations?user=awRyuUYAAAAJ&hl).
 
-In addition to my MIT research, I am [Chief AI Scientist](https://www.anoto.com/anoto-announces-the-establishment-of-kait-solutions-inc-a-us-subsidiary-for-its-education-software/) at [Knowledge AI](https://kaitsolutions.com/), the principal author of the [L7 machine learning blog](https://l7.curtisnorthcutt.com/), a rapper by the name of [PomDP the PhD rapper](https://www.phdrapper.com/), and a contingent research scientist at [Oculus Research](https://www.oculus.com/research/?locale=en_US). I help researchers [build affordable state-of-the-art deep learning machines](https://l7.curtisnorthcutt.com/the-best-4-gpu-deep-learning-rig). Read about it [here](https://l7.curtisnorthcutt.com/tag/build-gpu-rig/).
+In addition to my [MIT research](/md/research.html), I am [Chief AI Scientist](https://www.anoto.com/anoto-announces-the-establishment-of-kait-solutions-inc-a-us-subsidiary-for-its-education-software/) at [Knowledge AI](https://kaitsolutions.com/), the principal author of the [L7 machine learning blog](https://l7.curtisnorthcutt.com/), [PomDP the PhD rapper](https://www.phdrapper.com/), and a contingent research scientist at [Oculus Research](https://www.oculus.com/research/?locale=en_US). 
+
+In my spare time, I help researchers [build affordable state-of-the-art deep learning machines](https://l7.curtisnorthcutt.com/the-best-4-gpu-deep-learning-rig) and enjoy competitive mountaineering, hiking, and cycling.
 
 Some awards I've received include the [MIT Morris Joseph Levin Masters Thesis Award](https://www.eecs.mit.edu/news-events/announcements/eecs-celebrates-2015-2016-award-winners), the [NSF GRFP Fellowship](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList), the [Barry M. Goldwater National Scholarship](http://act.org/goldwater/sch-2012.html), and the [Vanderbilt Founder’s Medal](http://news.vanderbilt.edu/2013/05/founders-medalists/) (Valedictorian). Curtis created and manages the [cheating detection system](https://www.insidehighered.com/news/2015/08/26/harvard-mit-researchers-find-mooc-learners-using-multiple-accounts-cheat) used by MITx and HarvardX online course teams, particularly in [MicroMasters](https://micromasters.mit.edu/) courses. While at MIT, I TA'd 6.867, a large graduate machine learning course.
 
@@ -26,10 +30,11 @@ Some awards I've received include the [MIT Morris Joseph Levin Masters Thesis Aw
 
  I am fortunate to have had the opportunity to work or intern at:
  
- * **Google AI Research** in NYC (2019)
+ * **Google AI Research** in New York, NY (2019)
+ * **Knowledge AI Startup** in Boston, MA (2019-)
  * **Oculus Research** / FRL in Redmond, WA (2018-2019)
  * **Amazon AI Research** in Cambridge, MA (2017)
- * **Facebook AI Research** in NYC (2016)
+ * **Facebook AI Research** in New York, NY (2016)
  * **Microsoft Research India** in Bangalore (2014) 
  * **MIT Lincoln Laboratory** in Lexington, MA (2013)
  * **Microsoft** in Redmond, WA (2012)
