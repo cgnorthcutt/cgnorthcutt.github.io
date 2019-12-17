@@ -33,6 +33,9 @@ I've helped tens-hundreds of researchers [build affordable state-of-the-art deep
 **Comment Ranking Diversification in Forum Discussions**, *Curtis G. Northcutt, Kimberly Leon,	& Naichun Chen, Learning at Scale, 2017.*  [[paper](https://dl.acm.org/citation.cfm?id=3051457.3054016) | [code](https://github.com/cgnorthcutt/forum-diversification) | [free-access](/resources/pdf/northcutt_2017_diversification.pdf)]
 > A simple re-ranking algorithm that improves the fairness and representation of diverse opinions in online commenting and forums.
 
+**Deterring cheating in online environments**, *Henry Corrigan-Gibbs, Nakull Gupta, Curtis G. Northcutt, Edward Cutrell, & William Thies, ACM Transactions on Computer-Human Interaction (TOCHI), 2015.* [[paper](https://dl.acm.org/citation.cfm?id=2810239) | [free-access](http://cutrell.org/papers/corrigan-gibbs-2015-TOCHI-DeterringCheatingOnline.pdf)]
+> A neat set of experiments that use a "honeypot" to find cheaters in online courses and demonstrates experimentally the reduction of student cheating for various honor codes and warnings before an exam.
+
 **Detecting and preventing “multiple-account” cheating in massive open online courses**, *Curtis G. Northcutt, Andrew Ho, & Isaac L. Chuang, [Computers & Education](http://www.sciencedirect.com/science/article/pii/S0360131516300896), 2016.* [[paper](/resources/pdf/northcutt_2016_cameo.pdf) | [code](https://github.com/CGNx/edx2bigquery/blob/master/edx2bigquery/make_problem_analysis.py#L1628) | [arXiv](https://arxiv.org/abs/1508.05699)]
 > A simple-to-implement cheating detection algorithm used by MITx and HarvardX online courses to detect a widespread form of cheating in MOOCs.
 
