@@ -19,12 +19,12 @@ In addition to my [MIT research](/md/research.html), I am [Chief AI Scientist](h
 
 In my spare time, I help researchers [build affordable state-of-the-art deep learning machines](https://l7.curtisnorthcutt.com/the-best-4-gpu-deep-learning-rig) and enjoy competitive mountaineering, hiking, and cycling.
 
-Some awards I've received include the [MIT Morris Joseph Levin Masters Thesis Award](https://www.eecs.mit.edu/news-events/announcements/eecs-celebrates-2015-2016-award-winners), the [NSF GRFP Fellowship](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList), the [Barry M. Goldwater National Scholarship](http://act.org/goldwater/sch-2012.html), and the [Vanderbilt Founder’s Medal](http://news.vanderbilt.edu/2013/05/founders-medalists/) (Valedictorian). Curtis created and manages the [cheating detection system](https://www.insidehighered.com/news/2015/08/26/harvard-mit-researchers-find-mooc-learners-using-multiple-accounts-cheat) used by MITx and HarvardX online course teams, particularly in [MicroMasters](https://micromasters.mit.edu/) courses. While at MIT, I TA'd 6.867, a large graduate machine learning course.
+Some awards I've received include the [MIT Morris Joseph Levin Masters Thesis Award](https://www.eecs.mit.edu/news-events/announcements/eecs-celebrates-2015-2016-award-winners), the [NSF GRFP Fellowship](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList), the [Barry M. Goldwater National Scholarship](http://act.org/goldwater/sch-2012.html), and the [Vanderbilt Founder’s Medal](http://news.vanderbilt.edu/2013/05/founders-medalists/) (Valedictorian). Curtis created and manages the [cheating detection system](https://www.insidehighered.com/news/2015/08/26/harvard-mit-researchers-find-mooc-learners-using-multiple-accounts-cheat) used by MITx and HarvardX online course teams, particularly in [MicroMasters](https://micromasters.mit.edu/) courses. At MIT, I TA'd 6.867, a 400-person advanced graduate machine learning course.
 
 ## Research Manifesto
 
-* The use of machine learning to augment human learning, particularly for social good.
-* Fixing (or learning in spite of) label errors, particularly in ML benchmark datasets.
+* Use machine learning to augment human learning, especially for social good.
+* Understand and learn in spite of uncertainty in labeled datasets.
 
 ## Industry and Institutional Research
 
