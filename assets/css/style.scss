@@ -34,14 +34,16 @@ header {
   
 }
 
-p, li, span {
-  font-size: 16px;
-}
-
 /* added by curtis*/
-@media screen{
+@media all{
   p, li, span {
     font-size: 22px;
+  }
+}
+
+@media screen{
+  p, li, span {
+    font-size: 16px;
   }
 }
 
