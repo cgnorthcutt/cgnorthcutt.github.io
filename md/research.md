@@ -15,27 +15,27 @@ I've helped tens-hundreds of researchers [build affordable state-of-the-art deep
 ## Selected relevant papers / projects
 
 
-<b>Confident Learning: Estimating Uncertainty for Dataset Labels</b>, *Curtis G. Northcutt, Lu Jiang, & Isaac L. Chuang, arXiv pre-print, 2019.* [[paper](https://arxiv.org/abs/1911.00068) | [code](https://github.com/cgnorthcutt/cleanlab) | [blog](https://l7.curtisnorthcutt.com/confident-learning)]
+**Confident Learning: Estimating Uncertainty for Dataset Labels**, *Curtis G. Northcutt, Lu Jiang, & Isaac L. Chuang, arXiv pre-print, 2019.* [[paper](https://arxiv.org/abs/1911.00068) | [code](https://github.com/cgnorthcutt/cleanlab) | [blog](https://l7.curtisnorthcutt.com/confident-learning)]
 > A family of theory and algorithms for characterizing, finding, and learning with label errors in datasets. Confident learning outperforms state-of-the-art (2019) approaches for learning with noisy labels by 30% increase an accuracy on CIFAR benchmarks with high label noise.
 
-<b>cleanlab</b> [[code](https://github.com/cgnorthcutt/cleanlab) | [docs](https://l7.curtisnorthcutt.com/cleanlab-python-package)]
+**cleanlab** [[code](https://github.com/cgnorthcutt/cleanlab) | [docs](https://l7.curtisnorthcutt.com/cleanlab-python-package)]
 > The official Python framework for machine learning and deep learning with noisy labels in datasets.
 
-<b>L7 Machine Learning Blog</b> [https://l7.curtisnorthcutt.com/]
+**L7 Machine Learning Blog** [https://l7.curtisnorthcutt.com/]
 > An ML research blog focusing on deep learning, learning with noisy labels, and the synergy of machine and human learning.
 
-<b>Synergy of Machine Learning and Human Learning</b> [[slides](/resources/pdf/northcutt_mit_2017_ai_in_online_education.pdf)]
+**Synergy of Machine Learning and Human Learning** [[slides](/resources/pdf/northcutt_mit_2017_ai_in_online_education.pdf)]
 > A tutorial-style framing of topics in the field and problem-solution slide-pairs for online education.
 
-<b>Learning with Confident Examples: Rank Pruning for Robust Classification with Noisy Labels</b>, *Curtis G. Northcutt, Tailin Wu, & Isaac L. Chuang, [Uncertainty in Artificial Intelligence](http://auai.org/uai2017/proceedings/papers/35.pdf) (UAI), 2017.* [[paper](/resources/pdf/northcutt_2017_rankpruning.pdf) | [code](https://github.com/cgnorthcutt/rankpruning) | [arXiv](https://l7.curtisnorthcutt.com/confident-learning)]
+**Learning with Confident Examples: Rank Pruning for Robust Classification with Noisy Labels**, *Curtis G. Northcutt, Tailin Wu, & Isaac L. Chuang, [Uncertainty in Artificial Intelligence](http://auai.org/uai2017/proceedings/papers/35.pdf) (UAI), 2017.* [[paper](/resources/pdf/northcutt_2017_rankpruning.pdf) | [code](https://github.com/cgnorthcutt/rankpruning) | [arXiv](https://l7.curtisnorthcutt.com/confident-learning)]
 > A state-of-the-art, robust, time-efficient, general algorithm for classification with noisy labels.
 
-<b>Comment Ranking Diversification in Forum Discussions</b>, *Curtis G. Northcutt, Kimberly Leon,	& Naichun Chen, Learning at Scale, 2017.*  [[paper](https://dl.acm.org/citation.cfm?id=3051457.3054016) | [code](https://github.com/cgnorthcutt/forum-diversification) | [free-access](/resources/pdf/northcutt_2017_diversification.pdf)]
+**Comment Ranking Diversification in Forum Discussions**, *Curtis G. Northcutt, Kimberly Leon,	& Naichun Chen, Learning at Scale, 2017.*  [[paper](https://dl.acm.org/citation.cfm?id=3051457.3054016) | [code](https://github.com/cgnorthcutt/forum-diversification) | [free-access](/resources/pdf/northcutt_2017_diversification.pdf)]
 > A simple re-ranking algorithm that improves the fairness and representation of diverse opinions in online commenting and forums.
 
-<b>Detecting and preventing “multiple-account” cheating in massive open online courses</b>, *Curtis G. Northcutt, Andrew Ho, & Isaac L. Chuang, [Computers & Education](http://www.sciencedirect.com/science/article/pii/S0360131516300896), 2016.* [[paper](/resources/pdf/northcutt_2016_cameo.pdf) | [code](https://github.com/CGNx/edx2bigquery/blob/master/edx2bigquery/make_problem_analysis.py#L1628) | [arXiv](https://arxiv.org/abs/1508.05699)]
+**Detecting and preventing “multiple-account” cheating in massive open online courses**, *Curtis G. Northcutt, Andrew Ho, & Isaac L. Chuang, [Computers & Education](http://www.sciencedirect.com/science/article/pii/S0360131516300896), 2016.* [[paper](/resources/pdf/northcutt_2016_cameo.pdf) | [code](https://github.com/CGNx/edx2bigquery/blob/master/edx2bigquery/make_problem_analysis.py#L1628) | [arXiv](https://arxiv.org/abs/1508.05699)]
 > A simple-to-implement cheating detection algorithm used by MITx and HarvardX online courses to detect a widespread form of cheating in MOOCs.
 
-<b>Security of Cyber-Physical Systems: A Generalized Algorithm for Intrusion Detection and Determining Security Robustness of Cyber Physical Systems using Logical Truth Tables</b>, *Curtis G. Northcutt, [Vanderbilt Undergraduate Research Journal](https://ejournals.library.vanderbilt.edu/index.php/vurj/article/view/3765), 2013.* [[paper](https://ejournals.library.vanderbilt.edu/index.php/vurj/article/view/3765)]
+**Security of Cyber-Physical Systems: A Generalized Algorithm for Intrusion Detection and Determining Security Robustness of Cyber Physical Systems using Logical Truth Tables**, *Curtis G. Northcutt, [Vanderbilt Undergraduate Research Journal](https://ejournals.library.vanderbilt.edu/index.php/vurj/article/view/3765), 2013.* [[paper](https://ejournals.library.vanderbilt.edu/index.php/vurj/article/view/3765)]
 > A simple solution for intrusion detection in cyber physical systems.
 
