@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+
+/* Curtis code */
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
@@ -15,6 +18,21 @@
     position:static;
     width:auto;
   }
+  
+  section {
+    width:500px;  
+    float:right;
+    padding-bottom:50px;
+  }
+  
+  p, li, span {
+    font-size: 22px;
+  }
+  
+  .wrapper {
+    width:860px;
+    margin:0 auto;
+  }
 
   header {
     padding-right:320px;
@@ -22,34 +40,18 @@
   
 }
 
-@media all {
-  section {
-    width:500px;  
-    float:right;
-    padding-bottom:50px;
-  }  
-  p, li, span {
-    font-size: 22px;
-  }  
-  .wrapper {
-    width:860px;
-    margin:0 auto;
-  }
+/* desktop screen */
+section {
+  width:700px;  
+  float:right;
+  padding-bottom:50px;
+}  
+p, li, span {
+  font-size: 16px;
 }
-
-@media screen {
-  section {
-    width:700px;  
-    float:right;
-    padding-bottom:50px;
-  }  
-  p, li, span {
-    font-size: 16px;
-  }
-  .wrapper {
-    width:1060px;
-    margin:0 auto;
-  }
+.wrapper {
+  width:1060px;
+  margin:0 auto;
 }
 
 /* End curtis added stuff */
