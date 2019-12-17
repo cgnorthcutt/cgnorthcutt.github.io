@@ -9,8 +9,6 @@
 /* desktop screen */
 section {
   width:700px;  
-  float:right;
-  padding-bottom:50px;
 }
 
 p, li, span {
@@ -19,7 +17,6 @@ p, li, span {
 
 .wrapper {
   width:1060px;
-  margin:0 auto;
 }
 
 @media print, screen and (max-width: 960px) {
