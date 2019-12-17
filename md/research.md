@@ -21,7 +21,7 @@ I've helped tens-hundreds of researchers [build affordable state-of-the-art deep
 **cleanlab** [[code](https://github.com/cgnorthcutt/cleanlab) | [docs](https://l7.curtisnorthcutt.com/cleanlab-python-package)]
 > The official Python framework for machine learning and deep learning with noisy labels in datasets.
 
-**L7 Machine Learning Blog** [https://l7.curtisnorthcutt.com/]
+**L7 Machine Learning Blog** [[https://l7.curtisnorthcutt.com/](https://l7.curtisnorthcutt.com/)]
 > An ML research blog focusing on deep learning, learning with noisy labels, and the synergy of machine and human learning.
 
 **Synergy of Machine Learning and Human Learning** [[slides](/resources/pdf/northcutt_mit_2017_ai_in_online_education.pdf)]
