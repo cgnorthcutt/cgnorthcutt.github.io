@@ -55,4 +55,4 @@ To this end, I develop robust machine learning algorithms to enable open learnin
 * Never stop expanding your viewpoint, welcome every new experience.
 * Work seriously, but don't take yourself too seriously 😉
 
-### When asked if I like rap, I always recommend [PomDP the PhD rapper](https://phdrapper.com).
+When asked if I like rap, I recommend [PomDP the PhD rapper](https://phdrapper.com).
