@@ -24,7 +24,7 @@ Some awards I've received include the [MIT Morris Joseph Levin Masters Thesis Aw
 ## Research Manifesto
 
 * Use machine learning to augment human learning, especially for social good.
-* Understand and learn in spite of uncertainty in labeled datasets.
+* Understand and learn in spite of uncertainty and noise in labeled datasets.
 
 ## Industry and Institutional Research
 
