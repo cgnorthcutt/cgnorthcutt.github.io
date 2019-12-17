@@ -54,7 +54,7 @@ To this end, I develop robust machine learning algorithms to enable open learnin
 
 ## Life Mantras
 
-* Make a global impact. Do work that improves the human condition on a global scale.
+* Do work that **empowers** people, especially protected groups and the underpriveledged.
 * Optimize every aspect of your health (social, intellectual, physical, spiritual, religious)
 * "smart" is a made-up word. "Expert" = 10,000 hours of study, not a "better brain".
 * Never stop expanding your viewpoint, welcome every new experience.
