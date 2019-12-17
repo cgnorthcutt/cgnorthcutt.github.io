@@ -12,7 +12,7 @@ In addition to my MIT research, I am [Chief AI Scientist](https://www.anoto.com/
 I've helped tens-hundreds of researchers [build affordable state-of-the-art deep learning machines](https://l7.curtisnorthcutt.com/the-best-4-gpu-deep-learning-rig). My work in this area is available in [L7 machine learning blog](https://l7.curtisnorthcutt.com/tag/build-gpu-rig/)
 
 
-## Selected relevant papers / projects
+# Selected papers / projects
 
 
 **Confident Learning: Estimating Uncertainty for Dataset Labels**, *Curtis G. Northcutt, Lu Jiang, & Isaac L. Chuang, arXiv pre-print, 2019.* [[paper](https://arxiv.org/abs/1911.00068) | [code](https://github.com/cgnorthcutt/cleanlab) | [blog](https://l7.curtisnorthcutt.com/confident-learning)]
