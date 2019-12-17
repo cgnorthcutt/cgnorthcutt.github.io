@@ -26,7 +26,7 @@ Some awards I've received include the [MIT Morris Joseph Levin Masters Thesis Aw
 * Use machine learning to augment human learning, especially for social good.
 * Understand and learn in spite of uncertainty and noise in labeled datasets.
 
-While these two directions may appear disparate, they are mutually dependent. Humans often have false notions about the world and encounter misinformation, yet we still learn well in noisy environments. Augmenting human learning using machine learning necessitates a deeper understanding of learning in these noisy environments. The future will unveil an increased synergy between machine learning and human learning. It is important we have the tools to deal with uncertainty in the real-world, while maintaining the foresight to focus our technological solutions towards social good.
+While these two ideas appear disparate, they are mutually dependent. Humans often have false notions about the world and encounter misinformation, yet we still learn well in noisy environments. Augmenting human learning with machine learning necessitates a deeper understanding of learning in noisy environments. Across healthcare, agriculture, politics, economics, transportation... our future as a species relies on an increasing synergy between machine learning and human learning: it is paramount that we have the tools to deal with real-world uncertainty, while maintaining the foresight to focus our advances in machine intelligence towards social good.
 
 ## Industry and Institutional Research
 
