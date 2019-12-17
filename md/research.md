@@ -16,7 +16,7 @@ I've helped tens-hundreds of researchers [build affordable state-of-the-art deep
 
 
 **Confident Learning: Estimating Uncertainty for Dataset Labels**, *Curtis G. Northcutt, Lu Jiang, & Isaac L. Chuang, arXiv pre-print, 2019.* [[paper](https://arxiv.org/abs/1911.00068) | [code](https://github.com/cgnorthcutt/cleanlab) | [blog](https://l7.curtisnorthcutt.com/confident-learning)]
-> A family of theory and algorithms for characterizing, finding, and learning with label errors in datasets. Confident learning outperforms state-of-the-art (2019) approaches for learning with noisy labels by 30% increase an accuracy on CIFAR benchmarks with high label noise.
+> A family of theory and algorithms for characterizing, finding, and learning with label errors in datasets. Confident learning improves on state-of-the-art (2019) approaches for learning with noisy labels by 30% on CIFAR benchmarks in the presence of high label noise.
 
 **cleanlab** [[code](https://github.com/cgnorthcutt/cleanlab) | [docs](https://l7.curtisnorthcutt.com/cleanlab-python-package)]
 > The official Python framework for machine learning and deep learning with noisy labels in datasets.
