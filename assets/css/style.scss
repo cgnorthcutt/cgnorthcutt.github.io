@@ -23,22 +23,9 @@ p, li, span {
 }
 
 @media print, screen and (max-width: 960px) {
-
-  div.wrapper {
-    width:auto;
-    margin:0;
-  }
-
-  header, section, footer {
-    float:none;
-    position:static;
-    width:auto;
-  }
   
   section {
     width:500px;  
-    float:right;
-    padding-bottom:50px;
   }
   
   p, li, span {
@@ -47,7 +34,6 @@ p, li, span {
   
   .wrapper {
     width:860px;
-    margin:0 auto;
   }
 
   header {
