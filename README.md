@@ -1,10 +1,10 @@
 <h2> News Highlights -- <span>updated 12-16-19</span></h2>
 <!-- My [research](md/research.md) will be added soon. -->
 
-**Dec 2019**: Added many updates to my [[Research page](/md/research.html)]. <br>
-**Nov 2019**: Published Confident Learning: A family of theory and algorithms for characterizing, finding, and learning with label errors in datasets. Confident learning outperforms state-of-the-art (2019) approaches for learning with noisy labels by 30% increase an accuracy on CIFAR benchmarks with high label noise.: [[paper](https://arxiv.org/abs/1911.00068) | [code](https://github.com/cgnorthcutt/cleanlab) | [blog](https://l7.curtisnorthcutt.com/confident-learning)] <br>
-**Nov 2019**: Announcing cleanlab: The official Python framework for machine learning and deep learning with noisy labels in datasets. [[code](https://github.com/cgnorthcutt/cleanlab) | [docs](https://l7.curtisnorthcutt.com/cleanlab-python-package)] <br>
-**Jan 2019**: Announcing the L7 blog! A place for machine learning and human learning: [[l7.curtisnorthcutt.com](https://l7.curtisnorthcutt.com)] <br>
+**Dec 2019**: Added many updates to my [ [Research page](/md/research.html) ]. <br>
+**Nov 2019**: Published Confident Learning: A family of theory and algorithms for characterizing, finding, and learning with label errors in datasets. Confident learning outperforms state-of-the-art (2019) approaches for learning with noisy labels by 30% increase an accuracy on CIFAR benchmarks with high label noise.: [ [paper](https://arxiv.org/abs/1911.00068) | [code](https://github.com/cgnorthcutt/cleanlab) | [blog](https://l7.curtisnorthcutt.com/confident-learning) ] <br>
+**Nov 2019**: Announcing cleanlab: The official Python framework for machine learning and deep learning with noisy labels in datasets. [ [code](https://github.com/cgnorthcutt/cleanlab) | [docs](https://l7.curtisnorthcutt.com/cleanlab-python-package) ] <br>
+**Jan 2019**: Announcing the L7 blog! A place for machine learning and human learning: [ [l7.curtisnorthcutt.com](https://l7.curtisnorthcutt.com) ] <br>
 
 See **[news](md/news.md)** for more. 
 
