@@ -56,7 +56,7 @@ To this end, I develop robust machine learning algorithms to enable open learnin
 
 * Make a global impact. Do work that improves the human condition on a global scale.
 * Optimize every aspect of your health (social, intellectual, physical, spiritual, religious)
-* Push the boundaries of what is reasonable to achieve the unreasonable.
+* "smart" is a made-up word. "Expert" = 10,000 hours of study, not a "better brain".
 * Never stop expanding your viewpoint, welcome every new experience.
 * Work seriously, but don't take yourself too seriously 😉
 
