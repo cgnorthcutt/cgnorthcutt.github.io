@@ -1,6 +1,7 @@
-<h2> News Highlights -- <span>updated 12-16-19</span></h2>
+<h2> News Highlights -- <span>updated 06-01-2020</span></h2>
 <!-- My [research](md/research.md) will be added soon. -->
 
+**June 2020**: Founded [ChipBrain.com](https://www.chipbrain.com), an empathy AI company building digital brains with IQ and state-of-the-art EQ. <br>
 **Dec 2019**: Added many updates to my [ [Research page](/md/research.html) ]. <br>
 **Nov 2019**: Published Confident Learning: A family of theory and algorithms for characterizing, finding, and learning with label errors in datasets. Confident learning outperforms state-of-the-art (2019) approaches for learning with noisy labels by 30% increase an accuracy on CIFAR benchmarks with high label noise. [ [paper](https://arxiv.org/abs/1911.00068) | [code](https://github.com/cgnorthcutt/cleanlab) | [blog](https://l7.curtisnorthcutt.com/confident-learning) ] <br>
 **Nov 2019**: Announcing cleanlab: The official Python framework for machine learning and deep learning with noisy labels in datasets. [ [code](https://github.com/cgnorthcutt/cleanlab) | [docs](https://l7.curtisnorthcutt.com/cleanlab-python-package) ] <br>
@@ -15,7 +16,7 @@ I am a sixth-year PhD candidate in EECS at MIT advised by [Isaac Chuang](https:/
 My research focuses on two goals: (1) [dataset uncertainty estimation](https://l7.curtisnorthcutt.com/confident-learning), (2) the synergy of [artificial intelligence to augment human intelligence](https://arxiv.org/abs/1508.05699). To this end, I established [confident learning](https://l7.curtisnorthcutt.com/confident-learning), a family of theory and algorithms for characterizing, finding, and learning with label errors in datasets, and [cleanlab](https://github.com/cgnorthcutt/cleanlab), the official Python framework for machine learning and deep learning with noisy labels in datasets.
 For an overview of my published research, please visit [Google Scholar](https://scholar.google.com/citations?user=awRyuUYAAAAJ&hl).
 
-In addition to my [MIT research](/md/research.html), I am [Chief AI Scientist](https://www.anoto.com/anoto-announces-the-establishment-of-kait-solutions-inc-a-us-subsidiary-for-its-education-software/) at [Knowledge AI](https://kaitsolutions.com/), the principal author of the [L7 machine learning blog](https://l7.curtisnorthcutt.com/), [PomDP the PhD rapper](https://www.phdrapper.com/), and a contingent research scientist at [Oculus Research](https://www.oculus.com/research/?locale=en_US). 
+In addition to my [MIT research](/md/research.html), I am Founder and CTO at [ChipBrain](https://www.chipbrain.com/), the principal author of the [L7 machine learning blog](https://l7.curtisnorthcutt.com/), and [PomDP the PhD rapper](https://www.phdrapper.com/).
 
 In my spare time, I help researchers [build affordable state-of-the-art deep learning machines](https://l7.curtisnorthcutt.com/the-best-4-gpu-deep-learning-rig) and enjoy competitive mountaineering, hiking, and cycling.
 
@@ -32,6 +33,7 @@ While these two ideas appear disparate, they are mutually dependent. Humans ofte
 
  I am fortunate to have had the opportunity to work or intern at:
  
+ * **ChipBrain** in Boston, MA (2020-)
  * **Google AI Research** in New York, NY (2019)
  * **Knowledge AI Startup** in Boston, MA (2019-)
  * **Oculus Research** / FRL in Redmond, WA (2018-2019)
