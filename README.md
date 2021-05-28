@@ -1,9 +1,11 @@
 <h2> News Highlights -- <span>updated 06-01-2020</span></h2>
 <!-- My [research](md/research.md) will be added soon. -->
 
+**May 2021**: Completed my Ph.D. at MIT in <b>"Confident Learning for Machines and Humans"</b> where I introduce theory and algorithms for data-centric machine learning with noisy labels and numerous applications for enhancing human capabilities. [ [thesis](https://www.curtisnorthcutt.com/resources/pdf/northcutt-confident-learning-for-machines-and-humans.pdf) | [slides](https://www.curtisnorthcutt.com/resources/pdf/northcutt-mit-2021-phd-defense-slides.pdf) ] <br>
+**Apr 2021**: Released [labelerrors.com](https://labelerrors.com/). [ [paper](https://arxiv.org/abs/1911.00068) | [code](https://github.com/cgnorthcutt/cleanlab) | [blog](https://l7.curtisnorthcutt.com/confident-learning) ] <br>
+**Mar 2021**: Published Confident Learning in [JAIR (Journal of Artificial Intelligence Research)](https://www.jair.org/index.php/jair/article/view/12125): Confident learning is a subfield for data-centric machine learning with noisy labels, with theory for exactly finding label errors in real-world datasets. [ [paper](https://arxiv.org/abs/1911.00068) | [code](https://github.com/cgnorthcutt/cleanlab) | [blog](https://l7.curtisnorthcutt.com/confident-learning) ] <br>
 **June 2020**: Founded [ChipBrain.com](https://www.chipbrain.com), an empathy AI company building digital brains with IQ and state-of-the-art EQ. <br>
 **Dec 2019**: Added many updates to my [ [Research page](/md/research.html) ]. <br>
-**Nov 2019**: Published Confident Learning: A family of theory and algorithms for characterizing, finding, and learning with label errors in datasets. Confident learning outperforms state-of-the-art (2019) approaches for learning with noisy labels by 30% increase an accuracy on CIFAR benchmarks with high label noise. [ [paper](https://arxiv.org/abs/1911.00068) | [code](https://github.com/cgnorthcutt/cleanlab) | [blog](https://l7.curtisnorthcutt.com/confident-learning) ] <br>
 **Nov 2019**: Announcing cleanlab: The official Python framework for machine learning and deep learning with noisy labels in datasets. [ [code](https://github.com/cgnorthcutt/cleanlab) | [docs](https://l7.curtisnorthcutt.com/cleanlab-python-package) ] <br>
 **Jan 2019**: Announcing the L7 blog! A place for machine learning and human learning. [ [l7.curtisnorthcutt.com](https://l7.curtisnorthcutt.com) ] <br>
 
