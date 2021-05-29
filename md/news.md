@@ -4,14 +4,20 @@ title: News - Curtis G. Northcutt
 
 # Featured in the News
 
+* **April 2021**: Our work on finding pervasive label errors in the 10 most commonly used machine learning test sets was featured [throughout the news](https://github.com/cgnorthcutt/label-errors#selected-news-coverage), including [Andrew Ng's deeplearning.ai blog](https://www.deeplearning.ai/the-batch/issue-87/#h-news), and on [WIRED magazine](https://www.wired.com/story/foundations-ai-riddled-errors/).
+* **Feb 11, 2021**: My company [ChipBrain][https://chipbrain.com/] is featured on [NASDAQ.com](https://www.nasdaq.com/articles/7-equity-crowdfunding-offerings-to-buy-this-week-2021-02-11).
 * **Nov 15, 2019**: Our [confident learning](https://l7.curtisnorthcutt.com/confident-learning) paper is recognized. [ [link](https://syncedreview.com/2019/11/15/weekly-papers-emnlp-2019-best-paper-facebook-xlm-r-and-more/) ]
 * **Apr 21, 2019**: Our [Massive Open Online Courses](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2586847) paper is discussed. [ [link](https://www.valuewalk.com/2015/04/harvardx-and-mitx-two-years-of-open-online-courses-fall-2012-summer-2014/) ]
 * **Apr 17, 2019**: My work [helping researchers build deep learning machines at low-cost](https://l7.curtisnorthcutt.com/the-best-4-gpu-deep-learning-rig) is discussed. [ [link](https://www.xataka.com/componentes/este-maquinon-cuatro-rtx-2080-ti-cuesta-7-800-euros-no-para-gamers-joya-para-deep-learning) ]
 * **May 24, 2017**: My work in [human learning](https://www.curtisnorthcutt.com/resources/pdf/northcutt_mit_2017_ai_in_online_education.pdf) is discussed. [ [link](https://news.harvard.edu/gazette/story/2017/05/emerging-challenges-in-digital-higher-education/) ]
 * **Aug 26, 2015**: Our [CAMEO cheating detection](http://www.sciencedirect.com/science/article/pii/S0360131516300896) paper is discussed. [ [link](https://www.insidehighered.com/news/2015/08/26/harvard-mit-researchers-find-mooc-learners-using-multiple-accounts-cheat) ]
 
-# Personal News
+# Some Personal News
 
+**May 2021**: Completed my Ph.D. at MIT: <b>"Confident Learning for Machines and Humans"</b>. The questions (and answers) in this thesis lay the foundation for a new field of data-centric machine learning with noisy labels + applications for enhancing human capabilities. [ [thesis PDF](https://www.curtisnorthcutt.com/resources/pdf/northcutt-confident-learning-for-machines-and-humans.pdf) | [defense slides](https://www.curtisnorthcutt.com/resources/pdf/northcutt-mit-2021-phd-defense-slides.pdf) ] <br>
+**Apr 2021**: Released [labelerrors.com](https://labelerrors.com/). [ [paper](https://arxiv.org/abs/1911.00068) | [code](https://github.com/cgnorthcutt/cleanlab) | [blog](https://l7.curtisnorthcutt.com/confident-learning) ] <br>
+**Mar 2021**: Published Confident Learning in [JAIR (Journal of Artificial Intelligence Research)](https://www.jair.org/index.php/jair/article/view/12125): Confident learning is a subfield for data-centric machine learning with noisy labels, with theory for exactly finding label errors in real-world datasets. [ [paper](https://arxiv.org/abs/1911.00068) | [code](https://github.com/cgnorthcutt/cleanlab) | [blog](https://l7.curtisnorthcutt.com/confident-learning) ] <br>
+**June 2020**: Founded [ChipBrain.com](https://www.chipbrain.com), an empathy AI company building digital brains with IQ and state-of-the-art EQ. <br>
 **Dec 16, 2019**: Added many updates to my [Research page](/md/research.html). <br>
 **Nov 17, 2019**: Announcing **cleanlab**: The official Python framework for machine learning and deep learning with noisy labels in datasets. [ [code](https://github.com/cgnorthcutt/cleanlab) | [docs](https://l7.curtisnorthcutt.com/cleanlab-python-package) ] <br>
 **Nov 4, 2019**: Published **Confident Learning**: A family of theory and algorithms for characterizing, finding, and learning with label errors in datasets. Confident learning outperforms state-of-the-art (2019) approaches for learning with noisy labels by 30% increase an accuracy on CIFAR benchmarks with high label noise.: [ [paper](https://arxiv.org/abs/1911.00068) | [code](https://github.com/cgnorthcutt/cleanlab) | [blog](https://l7.curtisnorthcutt.com/confident-learning) ] <br>
