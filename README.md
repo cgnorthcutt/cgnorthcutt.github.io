@@ -1,4 +1,4 @@
-<h2> News Highlights -- <span>updated 06-01-2020</span></h2>
+<h2> News Highlights -- <span>updated May 2021</span></h2>
 <!-- My [research](md/research.md) will be added soon. -->
 
 **May 2021**: Completed my Ph.D. at MIT: <b>"Confident Learning for Machines and Humans"</b>. The questions (and answers) in this thesis lay the foundation for a new field of data-centric machine learning with noisy labels + applications for enhancing human capabilities. [ [thesis PDF](https://www.curtisnorthcutt.com/resources/pdf/northcutt-confident-learning-for-machines-and-humans.pdf) | [defense slides](https://www.curtisnorthcutt.com/resources/pdf/northcutt-mit-2021-phd-defense-slides.pdf) ] <br>
