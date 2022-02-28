@@ -1,3 +1,7 @@
+## Short Biography (third-person for wiki, google crawlers, etc)
+
+Curtis Northcutt is an American computer scientist and entrepreneur focusing on machine learning and AI to empower people. He is the CEO and co-founder of [Cleanlab](https://cleanlab.ai/) where he invented the company's algorithms for automatically finding and fixing label issues in any dataset. Curtis completed his [PhD from MIT](https://www.youtube.com/watch?v=ieUOv1sQPlw) and is the recipient of the [MIT Morris Levin Thesis Award](http://18.9.44.118/institute-awards/2015-2016-awards/electrical-engineering-and-computer-science), the [NSF Fellowship](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList), and the [Goldwater Scholarship](http://act.org/goldwater/sch-2012.html). He worked at several leading AI research groups, including Google, Oculus, Amazon, Facebook, Microsoft, and NASA.
+
 <h2> News Highlights -- <span>updated May 2021</span></h2>
 <!-- My [research](md/research.md) will be added soon. -->
 
@@ -11,19 +15,6 @@
 
 See **[news](md/news.md)** for more. 
 
-## About
-
-I completed my Ph.D. in Computer Science at MIT, where I was fortunate to work with [Isaac Chuang](https://web.mit.edu/physics/people/faculty/chuang_isaac.html). Before that, I was awarded the [MIT Morris Joseph Levin Masters Thesis Award](http://18.9.44.118/institute-awards/2015-2016-awards/electrical-engineering-and-computer-science) for my masters thesis work at MIT, the [NSF Fellowship](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList), and the [MITx Digital Learning Research Fellowship](https://odl.mit.edu/about/our-team/curtis-northcutt). I also taught as a TA for MIT's graduate machine learning course (6.867). Before that, I graduated as [valedictorian](http://news.vanderbilt.edu/2013/05/founders-medalists/) from Vanderbilt University (2009-2013) where I majored in mathematics and computer science and was awarded the [Barry M. Goldwater National Scholarship](http://act.org/goldwater/sch-2012.html).
-
-My [work](https://scholar.google.com/citations?user=awRyuUYAAAAJ&hl) spans the theory and applications of artificial intelligence including [uncertainty quantification](https://l7.curtisnorthcutt.com/confident-learning) and [augmenting human capabilities](https://arxiv.org/abs/1508.05699). I invented [confident learning](https://arxiv.org/pdf/1911.00068.pdf) and [cleanlab (1.5k+ stars on GitHub)](https://github.com/cgnorthcutt/cleanlab), the Python package for machine learning with noisy labels and finding label errors in datasets. Before that, I created the [CAMEO cheating detection system](https://www.insidehighered.com/news/2015/08/26/harvard-mit-researchers-find-mooc-learners-using-multiple-accounts-cheat) used to validate certificates in MITx and HarvardX online course teams. I am grateful to have worked at many of the world's leading AI research groups, including Google AI, Oculus Research, Facebook AI Research, Amazon AI, Microsoft Research, NASA, MIT, and Harvard.
-
-
-Working with [Richard Newcombe](https://scholar.google.com/citations?user=MhowvPkAAAAJ&hl=fr), I created the first augmented reality dataset for multi-person conversational AI, [EgoCom](https://github.com/facebookresearch/EgoCom-Dataset). Our associated [T-PAMI paper](https://ieeexplore.ieee.org/document/9200754) uses the EgoCom dataset to [predict turn-taking](https://github.com/facebookresearch/EgoCom-Dataset/tree/main/paper_experiments_work_log/turntaking) in conversations.
-
-With friends from Harvard and MIT, I co-founded [ChipBrain](https://chipbrain.com/), an empathy AI company building digital brains. As CTO of ChipBrain, I lead our mission to build emotionally intelligent AI that helps anyone build better relationships and connect with their audience more deeply. We envision a world where people from different backgrounds can empathize with one another, whether it's solving an argument with a partner, selling a product to a customer, or asking for time off from your boss. You can learn more about ChipBrain in [this interview](https://www.kingscrowd.com/founder-profile-chipbrain-lisa-vo-curtis-northcutt/).
-
-In my spare time, I help researchers [build affordable state-of-the-art deep learning machines](https://l7.curtisnorthcutt.com/the-best-4-gpu-deep-learning-rig) and enjoy competitive mountaineering, hiking, and cycling.
-
 
 ## Research Manifesto
 
@@ -36,9 +27,10 @@ While these two ideas appear disparate, they are mutually dependent. Humans ofte
 
  I am fortunate to have had the opportunity to work or intern at:
  
- * **ChipBrain** in Boston, MA (2020-)
+ * **Cleanlab** in San Francisco, CA (2021-ongoing)
+ * **ChipBrain** in Boston, MA (2020-2022)
  * **Google AI Research** in New York, NY (2019)
- * **Knowledge AI Startup** in Boston, MA (2019-)
+ * **Knowledge AI Startup** in Boston, MA (2019-2020)
  * **Oculus Research** / FRL in Redmond, WA (2018-2019)
  * **Amazon AI Research** in Cambridge, MA (2017)
  * **Facebook AI Research** in New York, NY (2016)
@@ -68,3 +60,19 @@ To this end, I develop robust machine learning algorithms to enable open learnin
 * Work seriously, but don't take yourself too seriously 😉
 
 When asked if I like rap, I recommend [PomDP the PhD rapper](https://phdrapper.com).
+
+## Long biography
+
+
+## About
+
+I completed my Ph.D. in Computer Science at MIT, where I was fortunate to work with [Isaac Chuang](https://web.mit.edu/physics/people/faculty/chuang_isaac.html). Before that, I was awarded the [MIT Morris Joseph Levin Masters Thesis Award](http://18.9.44.118/institute-awards/2015-2016-awards/electrical-engineering-and-computer-science) for my masters thesis work at MIT, the [NSF Fellowship](https://www.fastlane.nsf.gov/grfp/AwardeeList.do?method=loadAwardeeList), and the [MITx Digital Learning Research Fellowship](https://odl.mit.edu/about/our-team/curtis-northcutt). I also taught as a TA for MIT's graduate machine learning course (6.867). Before that, I graduated as [valedictorian](http://news.vanderbilt.edu/2013/05/founders-medalists/) from Vanderbilt University (2009-2013) where I majored in mathematics and computer science and was awarded the [Barry M. Goldwater National Scholarship](http://act.org/goldwater/sch-2012.html).
+
+My [work](https://scholar.google.com/citations?user=awRyuUYAAAAJ&hl) spans the theory and applications of artificial intelligence including [uncertainty quantification](https://l7.curtisnorthcutt.com/confident-learning) and [augmenting human capabilities](https://arxiv.org/abs/1508.05699). I invented [confident learning](https://arxiv.org/pdf/1911.00068.pdf) and [cleanlab (1.5k+ stars on GitHub)](https://github.com/cgnorthcutt/cleanlab), the Python package for machine learning with noisy labels and finding label errors in datasets. Before that, I created the [CAMEO cheating detection system](https://www.insidehighered.com/news/2015/08/26/harvard-mit-researchers-find-mooc-learners-using-multiple-accounts-cheat) used to validate certificates in MITx and HarvardX online course teams. I am grateful to have worked at many of the world's leading AI research groups, including Google AI, Oculus Research, Facebook AI Research, Amazon AI, Microsoft Research, NASA, MIT, and Harvard.
+
+Working with [Richard Newcombe](https://scholar.google.com/citations?user=MhowvPkAAAAJ&hl=fr), I created the first augmented reality dataset for multi-person conversational AI, [EgoCom](https://github.com/facebookresearch/EgoCom-Dataset). Our associated [T-PAMI paper](https://ieeexplore.ieee.org/document/9200754) uses the EgoCom dataset to [predict turn-taking](https://github.com/facebookresearch/EgoCom-Dataset/tree/main/paper_experiments_work_log/turntaking) in conversations.
+
+With friends from Harvard and MIT, I co-founded [ChipBrain](https://chipbrain.com/), an empathy AI company building digital brains. As CTO of ChipBrain, I led our mission to build emotionally intelligent AI that helps anyone build better relationships and connect with their audience more deeply. I envisioned a world where people from different backgrounds can empathize with one another, whether it's solving an argument with a partner, selling a product to a customer, or asking for time off from your boss. **I resigned from ChipBrain in early 2022 to focus full-time on Cleanlab[https://cleanlab.ai/].**
+
+In my spare time, I help researchers [build affordable state-of-the-art deep learning machines](https://l7.curtisnorthcutt.com/the-best-4-gpu-deep-learning-rig) and enjoy competitive mountaineering, hiking, and cycling.
+
