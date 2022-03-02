@@ -28,8 +28,8 @@ While these two ideas appear disparate, they are mutually dependent. Humans ofte
 
  I am fortunate to have had the opportunity to work or intern at:
  
- * **Cleanlab** in San Francisco, CA (2021-ongoing)
- * **ChipBrain** in Boston, MA (2020-2022)
+ * **[Cleanlab](https://cleanlab.ai/)** in San Francisco, CA (2021-ongoing)
+ * **[ChipBrain](https://chipbrain.com/)** in Boston, MA (2020-2022)
  * **Google AI Research** in New York, NY (2019)
  * **Knowledge AI Startup** in Boston, MA (2019-2020)
  * **Oculus Research** / FRL in Redmond, WA (2018-2019)
