@@ -55,9 +55,13 @@ To this end, I develop robust machine learning algorithms to enable open learnin
 ## Life Mantras
 
 * Do work that **empowers** people, especially protected groups and the underpriveledged.
-* Optimize every aspect of your health (social, intellectual, physical, spiritual, religious)
-* "smart" is a made-up word. "Expert" = 10,000 hours of study, not a "better brain".
+* Nothing good gets away. In other words, if it got away, it was probably bad.
+* Be curious, not judgemental.
+* You learn your strength at your weakest. It's easy to "show strength" when things are easy, but that's not strength.
+* Constantly evaluate who is speaking into your life. Make sure they aren't bringing you down, preventing you from blossoming.
+* "Smart" is a made-up word. "Expert" = 10,000 hours of study, not a "better brain".
 * Never stop expanding your viewpoint, welcome every new experience.
+* Optimize every aspect of your health (social, intellectual, physical, spiritual, religious).
 * Work seriously, but don't take yourself too seriously 😉
 
 When asked if I like rap, I recommend [PomDP the PhD rapper](https://phdrapper.com).
