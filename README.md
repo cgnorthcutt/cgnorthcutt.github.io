@@ -54,17 +54,24 @@ To this end, I develop robust machine learning algorithms to enable open learnin
 
 ## Life Mantras
 
-* Do work that **empowers** people, especially protected groups and the underpriveledged.
-* Nothing good gets away. In other words, if it got away, it was probably bad.
-* Be curious, not judgemental.
-* You learn your strength at your weakest. It's easy to "show strength" when things are easy, but that's not strength.
-* Constantly evaluate who is speaking into your life. Make sure they aren't bringing you down, preventing you from blossoming.
-* "Smart" is a made-up word. "Expert" = 10,000 hours of study, not a "better brain".
-* Never stop expanding your viewpoint, welcome every new experience.
-* Optimize every aspect of your health (social, intellectual, physical, spiritual, religious).
-* Work seriously, but don't take yourself too seriously 😉
+With work:
+1. Do work that **empowers** people, especially protected groups and the underpriveledged.
+2. "Smart" is a made-up word. "Expert" = 10,000 hours of study, not a "better brain".
+3. Work seriously, but don't take yourself too seriously 😉
+
+With people:
+4. Constantly evaluate who is speaking into your life. Make sure they aren't bringing you down, preventing you from blossoming.
+5. If you're lucky enough to have siblings, they are nature and nuture more similar to you than anyone on Earth. Value them.
+6. Nothing good gets away. In other words, if it got away, it was probably bad.
+
+With learning:
+7. You learn your strength at your weakest. It's easy to "show strength" when things are easy, but that's not strength.
+8. Never stop expanding your viewpoint, welcome every new experience.
+9. Be curious, not judgemental.
+10. Optimize every aspect of your health (social, intellectual, physical, spiritual, religious).
 
 When asked if I like rap, I recommend [PomDP the PhD rapper](https://phdrapper.com).
+
 
 ## Long biography
 
@@ -77,7 +84,7 @@ My [work](https://scholar.google.com/citations?user=awRyuUYAAAAJ&hl) spans the t
 
 Working with [Richard Newcombe](https://scholar.google.com/citations?user=MhowvPkAAAAJ&hl=fr), I created the first augmented reality dataset for multi-person conversational AI, [EgoCom](https://github.com/facebookresearch/EgoCom-Dataset). Our associated [T-PAMI paper](https://ieeexplore.ieee.org/document/9200754) uses the EgoCom dataset to [predict turn-taking](https://github.com/facebookresearch/EgoCom-Dataset/tree/main/paper_experiments_work_log/turntaking) in conversations.
 
-With friends from Harvard and MIT, I co-founded [ChipBrain](https://chipbrain.com/), an empathy AI company building digital brains. As CTO of ChipBrain, I led our mission to build emotionally intelligent AI that helps anyone build better relationships and connect with their audience more deeply. I envisioned a world where people from different backgrounds can empathize with one another, whether it's solving an argument with a partner, selling a product to a customer, or asking for time off from your boss. **I resigned from ChipBrain in early 2022 to focus full-time on Cleanlab[https://cleanlab.ai/].**
+With friends from Harvard and MIT, I co-founded [ChipBrain](https://chipbrain.com/), an empathy AI company building digital brains. As CTO of ChipBrain, I led our mission to build emotionally intelligent AI that helps anyone build better relationships and connect with their audience more deeply. I envisioned a world where people from different backgrounds can empathize with one another, whether it's solving an argument with a partner, selling a product to a customer, or asking for time off from your boss. **I resigned from ChipBrain in late 2021 to focus full-time on Cleanlab[https://cleanlab.ai/].**
 
 In my spare time, I help researchers [build affordable state-of-the-art deep learning machines](https://l7.curtisnorthcutt.com/the-best-4-gpu-deep-learning-rig) and enjoy competitive mountaineering, hiking, and cycling.
 
