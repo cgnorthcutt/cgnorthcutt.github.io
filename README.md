@@ -54,21 +54,18 @@ To this end, I develop robust machine learning algorithms to enable open learnin
 
 ## Life Mantras
 
-With work:
-1. Do work that **empowers** people, especially protected groups and the underpriveledged.
-2. "Smart" is a made-up word. "Expert" = 10,000 hours of study, not a "better brain".
-3. Work seriously, but don't take yourself too seriously 😉
+* Work #1 - Do work that **empowers** people, especially protected groups and the underpriveledged.
+* Work #2 - "Smart" is a made-up word. "Expert" = 10,000 hours of study, not a "better brain".
+* Work #3 - Work seroiusly, but don't take yourself too seriously 😉
 
-With people:
-4. Constantly evaluate who is speaking into your life. Make sure they aren't bringing you down, preventing you from blossoming.
-5. If you're lucky enough to have siblings, they are nature and nuture more similar to you than anyone on Earth. Value them.
-6. Nothing good gets away. In other words, if it got away, it was probably bad.
+* People #4 - Spend your time with people you admire.
+* People #5 - Stop asking why. Start asking why not?
+* People #6 - Nothing good gets away. If it got away, it was probably bad.
 
-With learning:
-7. You learn your strength at your weakest. It's easy to "show strength" when things are easy, but that's not strength.
-8. Never stop expanding your viewpoint, welcome every new experience.
-9. Be curious, not judgemental.
-10. Optimize every aspect of your health (social, intellectual, physical, spiritual, religious).
+* Learn #7 - Be curious, not judgemental.
+* Learn #8 - Never stop expanding your viewpoint, welcome every new experience.
+* Learn #9 - Embrace failure. Seek discomfort. Otherwise you cannot know yourself.
+* Learn #10 - Optimize every aspect of your health (social, intellectual, physical, spiritual, emotional).
 
 When asked if I like rap, I recommend [PomDP the PhD rapper](https://phdrapper.com).
 
