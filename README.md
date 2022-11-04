@@ -59,10 +59,10 @@ To this end, I develop robust machine learning algorithms to enable open learnin
 * Work #3 - Work seroiusly, but don't take yourself too seriously 😉
 
 * People #4 - Spend your time with people you admire.
-* People #5 - Stop asking why. Start asking why not?
+* People #5 - Be curious, not judgemental.
 * People #6 - Nothing good gets away. If it got away, it was probably bad.
 
-* Learn #7 - Be curious, not judgemental.
+* Learn #7 - Stop asking why. Start asking why not?
 * Learn #8 - Never stop expanding your viewpoint, welcome every new experience.
 * Learn #9 - Embrace failure. Seek discomfort. Otherwise you cannot know yourself.
 * Learn #10 - Optimize every aspect of your health (social, intellectual, physical, spiritual, emotional).
