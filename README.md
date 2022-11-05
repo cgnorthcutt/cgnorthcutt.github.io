@@ -56,8 +56,8 @@ To this end, I develop robust machine learning algorithms to enable open learnin
 
 * **Work**
 {:start="1"}
-    1. Do work that **empowers** people, especially protected groups and the underpriveledged.
-    2. "Smart" is a made-up word. "Expert" = 10,000 hours of study, not a "better brain".
+    1. Do work that **empowers** people, especially the underpriveledged.
+    2. The "smarter" person is just the one who studied more than you.
     3. Work seroiusly, but don't take yourself too seriously 😉
 
 * **People**
@@ -69,9 +69,9 @@ To this end, I develop robust machine learning algorithms to enable open learnin
 * **Learn**
 {:start="7"}
     7. Stop asking why. Start asking why not?
-    8. Never stop expanding your viewpoint, welcome every new experience.
-    9. Embrace failure. Seek discomfort. Otherwise you cannot know yourself.
-    10. Optimize every aspect of your health (social, intellectual, physical, spiritual, emotional).
+    8. Never stop welcoming new experiences.
+    9. To know yourself, you must embrace failure and seek discomfort.
+    10. Think about what you want to say. Say it. Stop.
 
 When asked if I like rap, I recommend [PomDP the PhD rapper](https://phdrapper.com).
 
