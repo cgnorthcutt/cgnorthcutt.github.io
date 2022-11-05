@@ -56,7 +56,7 @@ To this end, I develop robust machine learning algorithms to enable open learnin
 
 * **Work**
 {:start="1"}
-    1. Do work that **empowers** people, especially the underpriveledged.
+    1. Do work that empowers people, especially the underpriveledged.
     2. The "smarter" person is just the one who studied more than you.
     3. Work seroiusly, but don't take yourself too seriously 😉
 
