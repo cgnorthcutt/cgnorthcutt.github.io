@@ -65,7 +65,7 @@ To this end, I develop robust machine learning algorithms to enable open learnin
     4. Spend your time with people you admire.
     5. Be curious, not judgemental.
     6. Loosen your grip. Nothing good gets away.
-    7. The worst problem on Earth (and hardest to solve) is bad parenting.
+    7. The worst unsolved problem on Earth is bad parenting.
 
 * **Learn**
 {:start="7"}
@@ -75,8 +75,8 @@ To this end, I develop robust machine learning algorithms to enable open learnin
 
 * **Self**
 {:start="10"}    
-    10. To know yourself, you must embrace failure and seek discomfort.
-    11. Exploit your strengths, but spend your time on your weaknesses. 
+    10. To know yourself, embrace failure and seek discomfort.
+    11. Exploit your strengths. Spend your time on your weaknesses. 
 
 When asked if I like rap, I recommend [PomDP the PhD rapper](https://phdrapper.com).
 
