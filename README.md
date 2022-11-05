@@ -58,20 +58,25 @@ To this end, I develop robust machine learning algorithms to enable open learnin
 {:start="1"}
     1. Do work that empowers people, especially the underpriveledged.
     2. The "smarter" person is just the one who studied more than you.
-    3. Work seroiusly, but don't take yourself too seriously 😉
+    3. Work seriously, but don't take yourself too seriously 😉
 
 * **People**
 {:start="4"}
     4. Spend your time with people you admire.
     5. Be curious, not judgemental.
-    6. Nothing good gets away. If it got away, it was probably bad.
+    6. Loosen your grip. Nothing good gets away.
+    7. The worst problem on Earth (and hardest to solve) is bad parenting.
 
 * **Learn**
 {:start="7"}
-    7. Stop asking why. Start asking why not?
-    8. Never stop welcoming new experiences.
-    9. To know yourself, you must embrace failure and seek discomfort.
+    8. Stop asking why. Start asking why not?
+    9. Never stop welcoming new experiences.
     10. Think about what you want to say. Say it. Stop.
+
+* **Self**
+{:start="10"}    
+    10. To know yourself, you must embrace failure and seek discomfort.
+    11. Exploit your strengths, but spend your time on your weaknesses. 
 
 When asked if I like rap, I recommend [PomDP the PhD rapper](https://phdrapper.com).
 
